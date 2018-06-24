@@ -43,7 +43,7 @@ def write_qsub(config_path,
     if os.path.exists(qsub_path):
         return
     config_file = os.path.basename(config_path)
-    stdout_path = "{0}-run-{1}.out".format(config_file, run_number)
+    stdout_path = "run-{0}-{1}.out".format(run_number, config_file)
     seed = rng.randint(1, 999999999)
     assert(not os.path.exists(qsub_path))
     with open(qsub_path, 'w') as out:
