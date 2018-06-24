@@ -41,6 +41,22 @@ do
     i=`expr $i + 1`
 done
 
+NCHARS=2000
+
+i=1
+while [ "$i" -lt 6 ]
+do
+    prefix="c${i}sp"
+    outfile="${aln_dir}/comp0${i}-${NSPECIES}species-${NGENOMES}genomes-0${NCHARS}chars.nex"
+    ./generate-dummy-biallelic-alignment.py \
+        --nspecies "$NSPECIES" \
+        --ngenomes "$NGENOMES" \
+        --ncharacters "$NCHARS" \
+        --prefix "$prefix" \
+        > "$outfile"
+    i=`expr $i + 1`
+done
+
 NCHARS=10000
 
 i=1
