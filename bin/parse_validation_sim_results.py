@@ -199,12 +199,9 @@ def parse_simulation_results(
         burnin = 301):
     batch_number_pattern = re.compile(r'batch(?P<batch_number>\d+)')
     sim_number_pattern = re.compile(r'-sim-(?P<sim_number>\d+)-')
-    dpp_pattern = re.compile(r'-dpp-')
     val_sim_dirs = glob.glob(os.path.join(project_util.VAL_DIR, '0*'))
     for val_sim_dir in sorted(val_sim_dirs):
-        dpp = False
-        if dpp_pattern.search(val_sim_dir):
-            dpp = True
+        dpp = True
         sim_name = os.path.basename(val_sim_dir)
         number_of_comparisons = int(sim_name[0:2])
         parameter_names = get_parameter_names(number_of_comparisons, dpp = dpp)
