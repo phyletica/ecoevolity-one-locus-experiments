@@ -1,15 +1,12 @@
 #! /bin/bash
-#PBS -l nodes=1:ppn=20
-#PBS -l walltime=120:00:00
-#PBS -l mem=120gb
-#PBS -j oe 
-#PBS -l jobflags=ADVRES:jro0014_lab.56281
 
 if [ -n "$PBS_JOBNAME" ]
 then
     source ${PBS_O_HOME}/.bash_profile
     cd $PBS_O_WORKDIR
 fi
+
+nsites="01000"
 
 reps=500
 nprocs=8
@@ -21,7 +18,7 @@ nquantiles=1000
 sortindex=11
 seed=37851841
 
-output_dir="../results/dpp-msbayes"
+output_dir="../results-${nsites}/dpp-msbayes"
 if [ ! -d "$output_dir" ]
 then
     mkdir -p $output_dir
@@ -29,8 +26,8 @@ fi
 
 dmc.py --np $nprocs \
     -r $reps \
-    -o ../configs/dpp-msbayes.cfg \
-    -p ../prior/pymsbayes-results/pymsbayes-output/prior-stats-summaries \
+    -o ../configs/dpp-msbayes-${nsites}.cfg \
+    -p ../prior-${nsites}/pymsbayes-results/pymsbayes-output/prior-stats-summaries \
     -n $nprior \
     --prior-batch-size $batch_size \
     --num-posterior-samples $npost \
@@ -41,4 +38,4 @@ dmc.py --np $nprocs \
     --seed $seed \
     --no-global-estimate \
     --compress \
-    1>run-reject-dpp-msbayes.sh.out 2>&1
+    1>run-reject-dpp-msbayes-${nsites}.sh.out 2>&1
