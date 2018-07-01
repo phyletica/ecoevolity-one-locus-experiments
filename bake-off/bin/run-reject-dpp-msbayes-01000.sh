@@ -24,18 +24,4 @@ then
     mkdir -p $output_dir
 fi
 
-dmc.py --np $nprocs \
-    -r $reps \
-    -o ../configs/dpp-msbayes-${nsites}.cfg \
-    -p ../prior-${nsites}/pymsbayes-results/pymsbayes-output/prior-stats-summaries \
-    -n $nprior \
-    --prior-batch-size $batch_size \
-    --num-posterior-samples $npost \
-    --num-standardizing-samples $nsums \
-    -q $nquantiles \
-    --sort-index $sortindex \
-    --output-dir $output_dir \
-    --seed $seed \
-    --no-global-estimate \
-    --compress \
-    1>run-reject-dpp-msbayes-${nsites}.sh.out 2>&1
+dmc.py --np $nprocs -r $reps -o ../configs/dpp-msbayes-${nsites}.cfg -p ../prior-${nsites}/pymsbayes-results/pymsbayes-output/prior-stats-summaries -n $nprior --prior-batch-size $batch_size --num-posterior-samples $npost --num-standardizing-samples $nsums -q $nquantiles --sort-index $sortindex --output-dir $output_dir --seed $seed --no-global-estimate --compress 1>run-reject-dpp-msbayes-${nsites}.sh.out 2>&1

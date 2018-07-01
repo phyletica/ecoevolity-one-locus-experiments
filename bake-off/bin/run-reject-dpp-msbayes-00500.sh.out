@@ -1,0 +1,2550 @@
+Batch size is 0 prior samples.
+Simulating summary statistics from observed configs...
+Manager-1 (16206): starting worker MsBayesWorker-1
+Manager-2 (16211): starting worker MsBayesWorker-2
+Manager-3 (16213): starting worker MsBayesWorker-3
+Manager-4 (16217): starting worker MsBayesWorker-4
+Manager-5 (16223): starting worker MsBayesWorker-5
+Manager-6 (16227): starting worker MsBayesWorker-6
+Manager-7 (16232): starting worker MsBayesWorker-7
+Manager-8 (16236): starting worker MsBayesWorker-8
+Manager-1 (16206): worker MsBayesWorker-1 finished
+Manager-1 (16206): starting worker MsBayesWorker-9
+Manager-6 (16227): worker MsBayesWorker-6 finished
+Manager-4 (16217): worker MsBayesWorker-4 finished
+Manager-7 (16232): worker MsBayesWorker-7 finished
+Manager-3 (16213): worker MsBayesWorker-3 finished
+Manager-5 (16223): worker MsBayesWorker-5 finished
+Manager-8 (16236): worker MsBayesWorker-8 finished
+Manager-1 (16206): worker MsBayesWorker-9 finished
+Manager-2 (16211): worker MsBayesWorker-2 finished
+Manager-6 (16227): work queue is empty
+Manager-4 (16217): work queue is empty
+Manager-7 (16232): work queue is empty
+Manager-3 (16213): work queue is empty
+Manager-5 (16223): work queue is empty
+Manager-8 (16236): work queue is empty
+Manager-1 (16206): work queue is empty
+Manager-2 (16211): work queue is empty
+Running full analysis...
+Running full analyses on provided priors...
+Manager-9 (23845): starting worker EuRejectWorker-1
+Manager-10 (23847): starting worker EuRejectWorker-2
+Manager-11 (23850): starting worker EuRejectWorker-3
+Manager-12 (23852): starting worker EuRejectWorker-4
+Manager-13 (23855): starting worker EuRejectWorker-5
+Manager-14 (23858): starting worker EuRejectWorker-6
+Manager-16 (23863): starting worker EuRejectWorker-7
+Manager-15 (23861): starting worker EuRejectWorker-8
+Manager-10 (23847): worker EuRejectWorker-2 finished
+Manager-15 (23861): worker EuRejectWorker-8 finished
+Manager-16 (23863): worker EuRejectWorker-7 finished
+Manager-12 (23852): worker EuRejectWorker-4 finished
+Manager-14 (23858): worker EuRejectWorker-6 finished
+Manager-11 (23850): worker EuRejectWorker-3 finished
+Manager-9 (23845): worker EuRejectWorker-1 finished
+Manager-13 (23855): worker EuRejectWorker-5 finished
+Manager-10 (23847): work queue is empty
+Manager-15 (23861): work queue is empty
+Manager-16 (23863): work queue is empty
+Manager-12 (23852): work queue is empty
+Manager-14 (23858): work queue is empty
+Manager-11 (23850): work queue is empty
+Manager-9 (23845): work queue is empty
+Manager-13 (23855): work queue is empty
+Manager-17 (24286): starting worker EuRejectWorker-9
+Manager-18 (24287): starting worker EuRejectWorker-10
+Manager-20 (24289): starting worker EuRejectWorker-12
+Manager-19 (24288): starting worker EuRejectWorker-11
+Manager-21 (24290): starting worker EuRejectWorker-13
+Manager-22 (24291): starting worker EuRejectWorker-14
+Manager-24 (24293): starting worker EuRejectWorker-15
+Manager-23 (24292): starting worker EuRejectWorker-16
+Manager-24 (24293): worker EuRejectWorker-15 finished
+Manager-20 (24289): worker EuRejectWorker-12 finished
+Manager-22 (24291): worker EuRejectWorker-14 finished
+Manager-17 (24286): worker EuRejectWorker-9 finished
+Manager-19 (24288): worker EuRejectWorker-11 finished
+Manager-18 (24287): worker EuRejectWorker-10 finished
+Manager-23 (24292): worker EuRejectWorker-16 finished
+Manager-17 (24286): work queue is empty
+Manager-20 (24289): work queue is empty
+Manager-22 (24291): work queue is empty
+Manager-24 (24293): work queue is empty
+Manager-19 (24288): work queue is empty
+Manager-18 (24287): work queue is empty
+Manager-23 (24292): work queue is empty
+Manager-21 (24290): worker EuRejectWorker-13 finished
+Manager-21 (24290): work queue is empty
+Manager-25 (24413): starting worker EuRejectWorker-17
+Manager-26 (24414): starting worker EuRejectWorker-18
+Manager-27 (24415): starting worker EuRejectWorker-19
+Manager-28 (24416): starting worker EuRejectWorker-20
+Manager-29 (24417): starting worker EuRejectWorker-21
+Manager-31 (24423): starting worker EuRejectWorker-22
+Manager-30 (24419): starting worker EuRejectWorker-23
+Manager-32 (24425): starting worker EuRejectWorker-24
+Manager-28 (24416): worker EuRejectWorker-20 finished
+Manager-29 (24417): worker EuRejectWorker-21 finished
+Manager-30 (24419): worker EuRejectWorker-23 finished
+Manager-25 (24413): worker EuRejectWorker-17 finished
+Manager-32 (24425): worker EuRejectWorker-24 finished
+Manager-27 (24415): worker EuRejectWorker-19 finished
+Manager-31 (24423): worker EuRejectWorker-22 finished
+Manager-26 (24414): worker EuRejectWorker-18 finished
+Manager-25 (24413): work queue is empty
+Manager-30 (24419): work queue is empty
+Manager-28 (24416): work queue is empty
+Manager-29 (24417): work queue is empty
+Manager-32 (24425): work queue is empty
+Manager-27 (24415): work queue is empty
+Manager-31 (24423): work queue is empty
+Manager-26 (24414): work queue is empty
+Manager-33 (24515): starting worker EuRejectWorker-25
+Manager-34 (24516): starting worker EuRejectWorker-26
+Manager-35 (24517): starting worker EuRejectWorker-27
+Manager-36 (24518): starting worker EuRejectWorker-28
+Manager-37 (24519): starting worker EuRejectWorker-29
+Manager-38 (24520): starting worker EuRejectWorker-30
+Manager-39 (24521): starting worker EuRejectWorker-31
+Manager-40 (24522): starting worker EuRejectWorker-32
+Manager-34 (24516): worker EuRejectWorker-26 finished
+Manager-33 (24515): worker EuRejectWorker-25 finished
+Manager-37 (24519): worker EuRejectWorker-29 finished
+Manager-36 (24518): worker EuRejectWorker-28 finished
+Manager-35 (24517): worker EuRejectWorker-27 finished
+Manager-39 (24521): worker EuRejectWorker-31 finished
+Manager-40 (24522): worker EuRejectWorker-32 finished
+Manager-38 (24520): worker EuRejectWorker-30 finished
+Manager-33 (24515): work queue is empty
+Manager-34 (24516): work queue is empty
+Manager-37 (24519): work queue is empty
+Manager-36 (24518): work queue is empty
+Manager-35 (24517): work queue is empty
+Manager-39 (24521): work queue is empty
+Manager-40 (24522): work queue is empty
+Manager-38 (24520): work queue is empty
+Manager-41 (24611): starting worker EuRejectWorker-33
+Manager-43 (24613): starting worker EuRejectWorker-35
+Manager-42 (24612): starting worker EuRejectWorker-34
+Manager-45 (24615): starting worker EuRejectWorker-37
+Manager-44 (24614): starting worker EuRejectWorker-36
+Manager-46 (24616): starting worker EuRejectWorker-38
+Manager-48 (24618): starting worker EuRejectWorker-39
+Manager-47 (24617): starting worker EuRejectWorker-40
+Manager-41 (24611): worker EuRejectWorker-33 finished
+Manager-43 (24613): worker EuRejectWorker-35 finished
+Manager-46 (24616): worker EuRejectWorker-38 finished
+Manager-47 (24617): worker EuRejectWorker-40 finished
+Manager-45 (24615): worker EuRejectWorker-37 finished
+Manager-48 (24618): worker EuRejectWorker-39 finished
+Manager-44 (24614): worker EuRejectWorker-36 finished
+Manager-42 (24612): worker EuRejectWorker-34 finished
+Manager-45 (24615): work queue is empty
+Manager-46 (24616): work queue is empty
+Manager-47 (24617): work queue is empty
+Manager-41 (24611): work queue is empty
+Manager-48 (24618): work queue is empty
+Manager-43 (24613): work queue is empty
+Manager-44 (24614): work queue is empty
+Manager-42 (24612): work queue is empty
+Manager-49 (24707): starting worker EuRejectWorker-41
+Manager-50 (24708): starting worker EuRejectWorker-42
+Manager-51 (24709): starting worker EuRejectWorker-43
+Manager-52 (24710): starting worker EuRejectWorker-44
+Manager-53 (24711): starting worker EuRejectWorker-45
+Manager-56 (24714): starting worker EuRejectWorker-47
+Manager-54 (24712): starting worker EuRejectWorker-46
+Manager-55 (24713): starting worker EuRejectWorker-48
+Manager-53 (24711): worker EuRejectWorker-45 finished
+Manager-52 (24710): worker EuRejectWorker-44 finished
+Manager-54 (24712): worker EuRejectWorker-46 finished
+Manager-51 (24709): worker EuRejectWorker-43 finished
+Manager-49 (24707): worker EuRejectWorker-41 finished
+Manager-50 (24708): worker EuRejectWorker-42 finished
+Manager-55 (24713): worker EuRejectWorker-48 finished
+Manager-56 (24714): worker EuRejectWorker-47 finished
+Manager-52 (24710): work queue is empty
+Manager-53 (24711): work queue is empty
+Manager-49 (24707): work queue is empty
+Manager-54 (24712): work queue is empty
+Manager-50 (24708): work queue is empty
+Manager-51 (24709): work queue is empty
+Manager-55 (24713): work queue is empty
+Manager-56 (24714): work queue is empty
+Manager-57 (24805): starting worker EuRejectWorker-49
+Manager-58 (24806): starting worker EuRejectWorker-50
+Manager-60 (24808): starting worker EuRejectWorker-52
+Manager-61 (24809): starting worker EuRejectWorker-53
+Manager-63 (24811): starting worker EuRejectWorker-55
+Manager-62 (24810): starting worker EuRejectWorker-54
+Manager-59 (24807): starting worker EuRejectWorker-51
+Manager-64 (24812): starting worker EuRejectWorker-56
+Manager-57 (24805): worker EuRejectWorker-49 finished
+Manager-60 (24808): worker EuRejectWorker-52 finished
+Manager-63 (24811): worker EuRejectWorker-55 finished
+Manager-59 (24807): worker EuRejectWorker-51 finished
+Manager-62 (24810): worker EuRejectWorker-54 finished
+Manager-64 (24812): worker EuRejectWorker-56 finished
+Manager-58 (24806): worker EuRejectWorker-50 finished
+Manager-61 (24809): worker EuRejectWorker-53 finished
+Manager-57 (24805): work queue is empty
+Manager-59 (24807): work queue is empty
+Manager-63 (24811): work queue is empty
+Manager-60 (24808): work queue is empty
+Manager-62 (24810): work queue is empty
+Manager-58 (24806): work queue is empty
+Manager-64 (24812): work queue is empty
+Manager-61 (24809): work queue is empty
+Manager-65 (24907): starting worker EuRejectWorker-57
+Manager-66 (24908): starting worker EuRejectWorker-58
+Manager-67 (24909): starting worker EuRejectWorker-59
+Manager-68 (24910): starting worker EuRejectWorker-60
+Manager-69 (24911): starting worker EuRejectWorker-61
+Manager-70 (24912): starting worker EuRejectWorker-62
+Manager-71 (24913): starting worker EuRejectWorker-63
+Manager-72 (24914): starting worker EuRejectWorker-64
+Manager-67 (24909): worker EuRejectWorker-59 finished
+Manager-65 (24907): worker EuRejectWorker-57 finished
+Manager-70 (24912): worker EuRejectWorker-62 finished
+Manager-69 (24911): worker EuRejectWorker-61 finished
+Manager-66 (24908): worker EuRejectWorker-58 finished
+Manager-68 (24910): worker EuRejectWorker-60 finished
+Manager-71 (24913): worker EuRejectWorker-63 finished
+Manager-72 (24914): worker EuRejectWorker-64 finished
+Manager-69 (24911): work queue is empty
+Manager-71 (24913): work queue is empty
+Manager-65 (24907): work queue is empty
+Manager-67 (24909): work queue is empty
+Manager-66 (24908): work queue is empty
+Manager-72 (24914): work queue is empty
+Manager-68 (24910): work queue is empty
+Manager-70 (24912): work queue is empty
+Manager-73 (25003): starting worker EuRejectWorker-65
+Manager-74 (25004): starting worker EuRejectWorker-66
+Manager-75 (25005): starting worker EuRejectWorker-67
+Manager-76 (25006): starting worker EuRejectWorker-68
+Manager-77 (25007): starting worker EuRejectWorker-69
+Manager-78 (25008): starting worker EuRejectWorker-70
+Manager-79 (25009): starting worker EuRejectWorker-71
+Manager-80 (25010): starting worker EuRejectWorker-72
+Manager-75 (25005): worker EuRejectWorker-67 finished
+Manager-80 (25010): worker EuRejectWorker-72 finished
+Manager-78 (25008): worker EuRejectWorker-70 finished
+Manager-73 (25003): worker EuRejectWorker-65 finished
+Manager-76 (25006): worker EuRejectWorker-68 finished
+Manager-79 (25009): worker EuRejectWorker-71 finished
+Manager-77 (25007): worker EuRejectWorker-69 finished
+Manager-74 (25004): worker EuRejectWorker-66 finished
+Manager-75 (25005): work queue is empty
+Manager-80 (25010): work queue is empty
+Manager-78 (25008): work queue is empty
+Manager-76 (25006): work queue is empty
+Manager-79 (25009): work queue is empty
+Manager-77 (25007): work queue is empty
+Manager-73 (25003): work queue is empty
+Manager-74 (25004): work queue is empty
+Manager-81 (25099): starting worker EuRejectWorker-73
+Manager-82 (25100): starting worker EuRejectWorker-74
+Manager-83 (25101): starting worker EuRejectWorker-75
+Manager-84 (25102): starting worker EuRejectWorker-76
+Manager-86 (25104): starting worker EuRejectWorker-77
+Manager-85 (25103): starting worker EuRejectWorker-78
+Manager-88 (25106): starting worker EuRejectWorker-79
+Manager-87 (25105): starting worker EuRejectWorker-80
+Manager-83 (25101): worker EuRejectWorker-75 finished
+Manager-81 (25099): worker EuRejectWorker-73 finished
+Manager-86 (25104): worker EuRejectWorker-77 finished
+Manager-82 (25100): worker EuRejectWorker-74 finished
+Manager-88 (25106): worker EuRejectWorker-79 finished
+Manager-85 (25103): worker EuRejectWorker-78 finished
+Manager-87 (25105): worker EuRejectWorker-80 finished
+Manager-84 (25102): worker EuRejectWorker-76 finished
+Manager-81 (25099): work queue is empty
+Manager-83 (25101): work queue is empty
+Manager-86 (25104): work queue is empty
+Manager-88 (25106): work queue is empty
+Manager-82 (25100): work queue is empty
+Manager-85 (25103): work queue is empty
+Manager-87 (25105): work queue is empty
+Manager-84 (25102): work queue is empty
+Manager-89 (25203): starting worker EuRejectWorker-81
+Manager-90 (25204): starting worker EuRejectWorker-82
+Manager-91 (25205): starting worker EuRejectWorker-83
+Manager-93 (25207): starting worker EuRejectWorker-85
+Manager-92 (25206): starting worker EuRejectWorker-84
+Manager-95 (25209): starting worker EuRejectWorker-87
+Manager-96 (25210): starting worker EuRejectWorker-88
+Manager-94 (25208): starting worker EuRejectWorker-86
+Manager-93 (25207): worker EuRejectWorker-85 finished
+Manager-89 (25203): worker EuRejectWorker-81 finished
+Manager-91 (25205): worker EuRejectWorker-83 finished
+Manager-94 (25208): worker EuRejectWorker-86 finished
+Manager-96 (25210): worker EuRejectWorker-88 finished
+Manager-90 (25204): worker EuRejectWorker-82 finished
+Manager-92 (25206): worker EuRejectWorker-84 finished
+Manager-95 (25209): worker EuRejectWorker-87 finished
+Manager-89 (25203): work queue is empty
+Manager-91 (25205): work queue is empty
+Manager-93 (25207): work queue is empty
+Manager-96 (25210): work queue is empty
+Manager-90 (25204): work queue is empty
+Manager-94 (25208): work queue is empty
+Manager-92 (25206): work queue is empty
+Manager-95 (25209): work queue is empty
+Manager-97 (25301): starting worker EuRejectWorker-89
+Manager-98 (25302): starting worker EuRejectWorker-90
+Manager-99 (25303): starting worker EuRejectWorker-91
+Manager-100 (25304): starting worker EuRejectWorker-92
+Manager-101 (25305): starting worker EuRejectWorker-93
+Manager-102 (25306): starting worker EuRejectWorker-94
+Manager-103 (25307): starting worker EuRejectWorker-95
+Manager-104 (25308): starting worker EuRejectWorker-96
+Manager-100 (25304): worker EuRejectWorker-92 finished
+Manager-102 (25306): worker EuRejectWorker-94 finished
+Manager-99 (25303): worker EuRejectWorker-91 finished
+Manager-101 (25305): worker EuRejectWorker-93 finished
+Manager-98 (25302): worker EuRejectWorker-90 finished
+Manager-103 (25307): worker EuRejectWorker-95 finished
+Manager-104 (25308): worker EuRejectWorker-96 finished
+Manager-97 (25301): worker EuRejectWorker-89 finished
+Manager-99 (25303): work queue is empty
+Manager-102 (25306): work queue is empty
+Manager-100 (25304): work queue is empty
+Manager-101 (25305): work queue is empty
+Manager-98 (25302): work queue is empty
+Manager-103 (25307): work queue is empty
+Manager-104 (25308): work queue is empty
+Manager-97 (25301): work queue is empty
+Manager-105 (25403): starting worker EuRejectWorker-97
+Manager-106 (25404): starting worker EuRejectWorker-98
+Manager-107 (25405): starting worker EuRejectWorker-99
+Manager-108 (25406): starting worker EuRejectWorker-100
+Manager-109 (25407): starting worker EuRejectWorker-101
+Manager-110 (25408): starting worker EuRejectWorker-102
+Manager-111 (25409): starting worker EuRejectWorker-103
+Manager-112 (25410): starting worker EuRejectWorker-104
+Manager-109 (25407): worker EuRejectWorker-101 finished
+Manager-106 (25404): worker EuRejectWorker-98 finished
+Manager-112 (25410): worker EuRejectWorker-104 finished
+Manager-107 (25405): worker EuRejectWorker-99 finished
+Manager-111 (25409): worker EuRejectWorker-103 finished
+Manager-110 (25408): worker EuRejectWorker-102 finished
+Manager-105 (25403): worker EuRejectWorker-97 finished
+Manager-108 (25406): worker EuRejectWorker-100 finished
+Manager-106 (25404): work queue is empty
+Manager-109 (25407): work queue is empty
+Manager-112 (25410): work queue is empty
+Manager-107 (25405): work queue is empty
+Manager-111 (25409): work queue is empty
+Manager-110 (25408): work queue is empty
+Manager-105 (25403): work queue is empty
+Manager-108 (25406): work queue is empty
+Manager-113 (25504): starting worker EuRejectWorker-105
+Manager-114 (25505): starting worker EuRejectWorker-106
+Manager-115 (25506): starting worker EuRejectWorker-107
+Manager-117 (25508): starting worker EuRejectWorker-109
+Manager-118 (25509): starting worker EuRejectWorker-110
+Manager-119 (25510): starting worker EuRejectWorker-111
+Manager-116 (25507): starting worker EuRejectWorker-108
+Manager-120 (25511): starting worker EuRejectWorker-112
+Manager-114 (25505): worker EuRejectWorker-106 finished
+Manager-118 (25509): worker EuRejectWorker-110 finished
+Manager-116 (25507): worker EuRejectWorker-108 finished
+Manager-115 (25506): worker EuRejectWorker-107 finished
+Manager-120 (25511): worker EuRejectWorker-112 finished
+Manager-117 (25508): worker EuRejectWorker-109 finished
+Manager-113 (25504): worker EuRejectWorker-105 finished
+Manager-119 (25510): worker EuRejectWorker-111 finished
+Manager-116 (25507): work queue is empty
+Manager-118 (25509): work queue is empty
+Manager-114 (25505): work queue is empty
+Manager-115 (25506): work queue is empty
+Manager-120 (25511): work queue is empty
+Manager-117 (25508): work queue is empty
+Manager-113 (25504): work queue is empty
+Manager-119 (25510): work queue is empty
+Manager-121 (25600): starting worker EuRejectWorker-113
+Manager-123 (25602): starting worker EuRejectWorker-115
+Manager-122 (25601): starting worker EuRejectWorker-114
+Manager-128 (25607): starting worker EuRejectWorker-118
+Manager-126 (25605): starting worker EuRejectWorker-119
+Manager-124 (25603): starting worker EuRejectWorker-116
+Manager-125 (25604): starting worker EuRejectWorker-117
+Manager-127 (25606): starting worker EuRejectWorker-120
+Manager-122 (25601): worker EuRejectWorker-114 finished
+Manager-124 (25603): worker EuRejectWorker-116 finished
+Manager-128 (25607): worker EuRejectWorker-118 finished
+Manager-125 (25604): worker EuRejectWorker-117 finished
+Manager-126 (25605): worker EuRejectWorker-119 finished
+Manager-123 (25602): worker EuRejectWorker-115 finished
+Manager-127 (25606): worker EuRejectWorker-120 finished
+Manager-121 (25600): worker EuRejectWorker-113 finished
+Manager-122 (25601): work queue is empty
+Manager-126 (25605): work queue is empty
+Manager-125 (25604): work queue is empty
+Manager-123 (25602): work queue is empty
+Manager-124 (25603): work queue is empty
+Manager-128 (25607): work queue is empty
+Manager-127 (25606): work queue is empty
+Manager-121 (25600): work queue is empty
+Manager-130 (25705): starting worker EuRejectWorker-121
+Manager-129 (25704): starting worker EuRejectWorker-122
+Manager-133 (25708): starting worker EuRejectWorker-123
+Manager-131 (25706): starting worker EuRejectWorker-124
+Manager-132 (25707): starting worker EuRejectWorker-125
+Manager-135 (25710): starting worker EuRejectWorker-126
+Manager-134 (25709): starting worker EuRejectWorker-127
+Manager-136 (25711): starting worker EuRejectWorker-128
+Manager-129 (25704): worker EuRejectWorker-122 finished
+Manager-135 (25710): worker EuRejectWorker-126 finished
+Manager-136 (25711): worker EuRejectWorker-128 finished
+Manager-132 (25707): worker EuRejectWorker-125 finished
+Manager-131 (25706): worker EuRejectWorker-124 finished
+Manager-130 (25705): worker EuRejectWorker-121 finished
+Manager-134 (25709): worker EuRejectWorker-127 finished
+Manager-133 (25708): worker EuRejectWorker-123 finished
+Manager-132 (25707): work queue is empty
+Manager-129 (25704): work queue is empty
+Manager-135 (25710): work queue is empty
+Manager-131 (25706): work queue is empty
+Manager-130 (25705): work queue is empty
+Manager-136 (25711): work queue is empty
+Manager-134 (25709): work queue is empty
+Manager-133 (25708): work queue is empty
+Manager-137 (25800): starting worker EuRejectWorker-129
+Manager-138 (25801): starting worker EuRejectWorker-130
+Manager-139 (25802): starting worker EuRejectWorker-131
+Manager-142 (25805): starting worker EuRejectWorker-134
+Manager-141 (25804): starting worker EuRejectWorker-133
+Manager-143 (25806): starting worker EuRejectWorker-135
+Manager-140 (25803): starting worker EuRejectWorker-132
+Manager-144 (25807): starting worker EuRejectWorker-136
+Manager-143 (25806): worker EuRejectWorker-135 finished
+Manager-138 (25801): worker EuRejectWorker-130 finished
+Manager-137 (25800): worker EuRejectWorker-129 finished
+Manager-140 (25803): worker EuRejectWorker-132 finished
+Manager-142 (25805): worker EuRejectWorker-134 finished
+Manager-144 (25807): worker EuRejectWorker-136 finished
+Manager-139 (25802): worker EuRejectWorker-131 finished
+Manager-141 (25804): worker EuRejectWorker-133 finished
+Manager-138 (25801): work queue is empty
+Manager-143 (25806): work queue is empty
+Manager-140 (25803): work queue is empty
+Manager-137 (25800): work queue is empty
+Manager-142 (25805): work queue is empty
+Manager-144 (25807): work queue is empty
+Manager-139 (25802): work queue is empty
+Manager-141 (25804): work queue is empty
+Manager-145 (25896): starting worker EuRejectWorker-137
+Manager-146 (25897): starting worker EuRejectWorker-138
+Manager-147 (25898): starting worker EuRejectWorker-139
+Manager-149 (25900): starting worker EuRejectWorker-141
+Manager-150 (25901): starting worker EuRejectWorker-142
+Manager-151 (25902): starting worker EuRejectWorker-143
+Manager-152 (25903): starting worker EuRejectWorker-144
+Manager-148 (25899): starting worker EuRejectWorker-140
+Manager-149 (25900): worker EuRejectWorker-141 finished
+Manager-147 (25898): worker EuRejectWorker-139 finished
+Manager-148 (25899): worker EuRejectWorker-140 finished
+Manager-150 (25901): worker EuRejectWorker-142 finished
+Manager-151 (25902): worker EuRejectWorker-143 finished
+Manager-145 (25896): worker EuRejectWorker-137 finished
+Manager-152 (25903): worker EuRejectWorker-144 finished
+Manager-146 (25897): worker EuRejectWorker-138 finished
+Manager-147 (25898): work queue is empty
+Manager-149 (25900): work queue is empty
+Manager-148 (25899): work queue is empty
+Manager-150 (25901): work queue is empty
+Manager-151 (25902): work queue is empty
+Manager-145 (25896): work queue is empty
+Manager-152 (25903): work queue is empty
+Manager-146 (25897): work queue is empty
+Manager-153 (25998): starting worker EuRejectWorker-145
+Manager-154 (25999): starting worker EuRejectWorker-146
+Manager-156 (26001): starting worker EuRejectWorker-148
+Manager-157 (26002): starting worker EuRejectWorker-149
+Manager-155 (26000): starting worker EuRejectWorker-147
+Manager-158 (26003): starting worker EuRejectWorker-150
+Manager-159 (26004): starting worker EuRejectWorker-151
+Manager-160 (26005): starting worker EuRejectWorker-152
+Manager-153 (25998): worker EuRejectWorker-145 finished
+Manager-157 (26002): worker EuRejectWorker-149 finished
+Manager-154 (25999): worker EuRejectWorker-146 finished
+Manager-160 (26005): worker EuRejectWorker-152 finished
+Manager-158 (26003): worker EuRejectWorker-150 finished
+Manager-155 (26000): worker EuRejectWorker-147 finished
+Manager-156 (26001): worker EuRejectWorker-148 finished
+Manager-159 (26004): worker EuRejectWorker-151 finished
+Manager-157 (26002): work queue is empty
+Manager-153 (25998): work queue is empty
+Manager-154 (25999): work queue is empty
+Manager-160 (26005): work queue is empty
+Manager-158 (26003): work queue is empty
+Manager-155 (26000): work queue is empty
+Manager-156 (26001): work queue is empty
+Manager-159 (26004): work queue is empty
+Manager-161 (26096): starting worker EuRejectWorker-153
+Manager-162 (26097): starting worker EuRejectWorker-154
+Manager-163 (26098): starting worker EuRejectWorker-155
+Manager-165 (26100): starting worker EuRejectWorker-157
+Manager-164 (26099): starting worker EuRejectWorker-156
+Manager-166 (26101): starting worker EuRejectWorker-158
+Manager-167 (26102): starting worker EuRejectWorker-159
+Manager-168 (26103): starting worker EuRejectWorker-160
+Manager-164 (26099): worker EuRejectWorker-156 finished
+Manager-165 (26100): worker EuRejectWorker-157 finished
+Manager-161 (26096): worker EuRejectWorker-153 finished
+Manager-167 (26102): worker EuRejectWorker-159 finished
+Manager-163 (26098): worker EuRejectWorker-155 finished
+Manager-168 (26103): worker EuRejectWorker-160 finished
+Manager-166 (26101): worker EuRejectWorker-158 finished
+Manager-162 (26097): worker EuRejectWorker-154 finished
+Manager-165 (26100): work queue is empty
+Manager-167 (26102): work queue is empty
+Manager-163 (26098): work queue is empty
+Manager-164 (26099): work queue is empty
+Manager-161 (26096): work queue is empty
+Manager-168 (26103): work queue is empty
+Manager-166 (26101): work queue is empty
+Manager-162 (26097): work queue is empty
+Manager-169 (26198): starting worker EuRejectWorker-161
+Manager-170 (26199): starting worker EuRejectWorker-162
+Manager-171 (26200): starting worker EuRejectWorker-163
+Manager-172 (26201): starting worker EuRejectWorker-164
+Manager-173 (26202): starting worker EuRejectWorker-165
+Manager-174 (26203): starting worker EuRejectWorker-166
+Manager-176 (26205): starting worker EuRejectWorker-167
+Manager-175 (26204): starting worker EuRejectWorker-168
+Manager-170 (26199): worker EuRejectWorker-162 finished
+Manager-171 (26200): worker EuRejectWorker-163 finished
+Manager-172 (26201): worker EuRejectWorker-164 finished
+Manager-169 (26198): worker EuRejectWorker-161 finished
+Manager-173 (26202): worker EuRejectWorker-165 finished
+Manager-176 (26205): worker EuRejectWorker-167 finished
+Manager-175 (26204): worker EuRejectWorker-168 finished
+Manager-174 (26203): worker EuRejectWorker-166 finished
+Manager-170 (26199): work queue is empty
+Manager-172 (26201): work queue is empty
+Manager-171 (26200): work queue is empty
+Manager-173 (26202): work queue is empty
+Manager-169 (26198): work queue is empty
+Manager-176 (26205): work queue is empty
+Manager-175 (26204): work queue is empty
+Manager-174 (26203): work queue is empty
+Manager-177 (26294): starting worker EuRejectWorker-169
+Manager-178 (26295): starting worker EuRejectWorker-170
+Manager-179 (26296): starting worker EuRejectWorker-171
+Manager-180 (26297): starting worker EuRejectWorker-172
+Manager-181 (26298): starting worker EuRejectWorker-173
+Manager-182 (26299): starting worker EuRejectWorker-174
+Manager-183 (26300): starting worker EuRejectWorker-175
+Manager-184 (26301): starting worker EuRejectWorker-176
+Manager-181 (26298): worker EuRejectWorker-173 finished
+Manager-178 (26295): worker EuRejectWorker-170 finished
+Manager-184 (26301): worker EuRejectWorker-176 finished
+Manager-180 (26297): worker EuRejectWorker-172 finished
+Manager-183 (26300): worker EuRejectWorker-175 finished
+Manager-177 (26294): worker EuRejectWorker-169 finished
+Manager-182 (26299): worker EuRejectWorker-174 finished
+Manager-179 (26296): worker EuRejectWorker-171 finished
+Manager-177 (26294): work queue is empty
+Manager-183 (26300): work queue is empty
+Manager-184 (26301): work queue is empty
+Manager-180 (26297): work queue is empty
+Manager-181 (26298): work queue is empty
+Manager-178 (26295): work queue is empty
+Manager-182 (26299): work queue is empty
+Manager-179 (26296): work queue is empty
+Manager-185 (26390): starting worker EuRejectWorker-177
+Manager-186 (26391): starting worker EuRejectWorker-178
+Manager-187 (26392): starting worker EuRejectWorker-179
+Manager-188 (26393): starting worker EuRejectWorker-180
+Manager-189 (26394): starting worker EuRejectWorker-181
+Manager-190 (26395): starting worker EuRejectWorker-182
+Manager-191 (26396): starting worker EuRejectWorker-183
+Manager-192 (26397): starting worker EuRejectWorker-184
+Manager-187 (26392): worker EuRejectWorker-179 finished
+Manager-188 (26393): worker EuRejectWorker-180 finished
+Manager-185 (26390): worker EuRejectWorker-177 finished
+Manager-186 (26391): worker EuRejectWorker-178 finished
+Manager-191 (26396): worker EuRejectWorker-183 finished
+Manager-189 (26394): worker EuRejectWorker-181 finished
+Manager-190 (26395): worker EuRejectWorker-182 finished
+Manager-192 (26397): worker EuRejectWorker-184 finished
+Manager-187 (26392): work queue is empty
+Manager-188 (26393): work queue is empty
+Manager-191 (26396): work queue is empty
+Manager-185 (26390): work queue is empty
+Manager-186 (26391): work queue is empty
+Manager-189 (26394): work queue is empty
+Manager-192 (26397): work queue is empty
+Manager-190 (26395): work queue is empty
+Manager-193 (26494): starting worker EuRejectWorker-185
+Manager-194 (26495): starting worker EuRejectWorker-186
+Manager-195 (26496): starting worker EuRejectWorker-187
+Manager-196 (26497): starting worker EuRejectWorker-188
+Manager-197 (26498): starting worker EuRejectWorker-189
+Manager-198 (26499): starting worker EuRejectWorker-190
+Manager-199 (26500): starting worker EuRejectWorker-191
+Manager-200 (26501): starting worker EuRejectWorker-192
+Manager-194 (26495): worker EuRejectWorker-186 finished
+Manager-193 (26494): worker EuRejectWorker-185 finished
+Manager-198 (26499): worker EuRejectWorker-190 finished
+Manager-197 (26498): worker EuRejectWorker-189 finished
+Manager-196 (26497): worker EuRejectWorker-188 finished
+Manager-199 (26500): worker EuRejectWorker-191 finished
+Manager-195 (26496): worker EuRejectWorker-187 finished
+Manager-200 (26501): worker EuRejectWorker-192 finished
+Manager-197 (26498): work queue is empty
+Manager-194 (26495): work queue is empty
+Manager-198 (26499): work queue is empty
+Manager-193 (26494): work queue is empty
+Manager-196 (26497): work queue is empty
+Manager-199 (26500): work queue is empty
+Manager-195 (26496): work queue is empty
+Manager-200 (26501): work queue is empty
+Manager-201 (26590): starting worker EuRejectWorker-193
+Manager-202 (26591): starting worker EuRejectWorker-194
+Manager-203 (26592): starting worker EuRejectWorker-195
+Manager-205 (26594): starting worker EuRejectWorker-196
+Manager-204 (26593): starting worker EuRejectWorker-197
+Manager-206 (26595): starting worker EuRejectWorker-198
+Manager-207 (26596): starting worker EuRejectWorker-199
+Manager-208 (26597): starting worker EuRejectWorker-200
+Manager-201 (26590): worker EuRejectWorker-193 finished
+Manager-203 (26592): worker EuRejectWorker-195 finished
+Manager-206 (26595): worker EuRejectWorker-198 finished
+Manager-205 (26594): worker EuRejectWorker-196 finished
+Manager-204 (26593): worker EuRejectWorker-197 finished
+Manager-208 (26597): worker EuRejectWorker-200 finished
+Manager-207 (26596): worker EuRejectWorker-199 finished
+Manager-202 (26591): worker EuRejectWorker-194 finished
+Manager-201 (26590): work queue is empty
+Manager-203 (26592): work queue is empty
+Manager-206 (26595): work queue is empty
+Manager-205 (26594): work queue is empty
+Manager-204 (26593): work queue is empty
+Manager-208 (26597): work queue is empty
+Manager-207 (26596): work queue is empty
+Manager-202 (26591): work queue is empty
+Manager-209 (26686): starting worker EuRejectWorker-201
+Manager-210 (26687): starting worker EuRejectWorker-202
+Manager-211 (26688): starting worker EuRejectWorker-203
+Manager-212 (26689): starting worker EuRejectWorker-204
+Manager-213 (26690): starting worker EuRejectWorker-205
+Manager-214 (26691): starting worker EuRejectWorker-206
+Manager-215 (26692): starting worker EuRejectWorker-207
+Manager-216 (26693): starting worker EuRejectWorker-208
+Manager-210 (26687): worker EuRejectWorker-202 finished
+Manager-211 (26688): worker EuRejectWorker-203 finished
+Manager-216 (26693): worker EuRejectWorker-208 finished
+Manager-209 (26686): worker EuRejectWorker-201 finished
+Manager-213 (26690): worker EuRejectWorker-205 finished
+Manager-212 (26689): worker EuRejectWorker-204 finished
+Manager-215 (26692): worker EuRejectWorker-207 finished
+Manager-214 (26691): worker EuRejectWorker-206 finished
+Manager-213 (26690): work queue is empty
+Manager-216 (26693): work queue is empty
+Manager-211 (26688): work queue is empty
+Manager-210 (26687): work queue is empty
+Manager-209 (26686): work queue is empty
+Manager-212 (26689): work queue is empty
+Manager-215 (26692): work queue is empty
+Manager-214 (26691): work queue is empty
+Manager-217 (26788): starting worker EuRejectWorker-209
+Manager-218 (26789): starting worker EuRejectWorker-210
+Manager-219 (26790): starting worker EuRejectWorker-211
+Manager-221 (26792): starting worker EuRejectWorker-213
+Manager-220 (26791): starting worker EuRejectWorker-212
+Manager-222 (26793): starting worker EuRejectWorker-214
+Manager-223 (26794): starting worker EuRejectWorker-215
+Manager-224 (26795): starting worker EuRejectWorker-216
+Manager-220 (26791): worker EuRejectWorker-212 finished
+Manager-219 (26790): worker EuRejectWorker-211 finished
+Manager-218 (26789): worker EuRejectWorker-210 finished
+Manager-221 (26792): worker EuRejectWorker-213 finished
+Manager-224 (26795): worker EuRejectWorker-216 finished
+Manager-217 (26788): worker EuRejectWorker-209 finished
+Manager-223 (26794): worker EuRejectWorker-215 finished
+Manager-222 (26793): worker EuRejectWorker-214 finished
+Manager-219 (26790): work queue is empty
+Manager-218 (26789): work queue is empty
+Manager-221 (26792): work queue is empty
+Manager-220 (26791): work queue is empty
+Manager-224 (26795): work queue is empty
+Manager-223 (26794): work queue is empty
+Manager-217 (26788): work queue is empty
+Manager-222 (26793): work queue is empty
+Manager-225 (26886): starting worker EuRejectWorker-217
+Manager-226 (26887): starting worker EuRejectWorker-218
+Manager-227 (26888): starting worker EuRejectWorker-219
+Manager-230 (26891): starting worker EuRejectWorker-222
+Manager-228 (26889): starting worker EuRejectWorker-220
+Manager-232 (26893): starting worker EuRejectWorker-223
+Manager-229 (26890): starting worker EuRejectWorker-221
+Manager-231 (26892): starting worker EuRejectWorker-224
+Manager-227 (26888): worker EuRejectWorker-219 finished
+Manager-225 (26886): worker EuRejectWorker-217 finished
+Manager-230 (26891): worker EuRejectWorker-222 finished
+Manager-232 (26893): worker EuRejectWorker-223 finished
+Manager-228 (26889): worker EuRejectWorker-220 finished
+Manager-231 (26892): worker EuRejectWorker-224 finished
+Manager-226 (26887): worker EuRejectWorker-218 finished
+Manager-229 (26890): worker EuRejectWorker-221 finished
+Manager-227 (26888): work queue is empty
+Manager-228 (26889): work queue is empty
+Manager-232 (26893): work queue is empty
+Manager-225 (26886): work queue is empty
+Manager-230 (26891): work queue is empty
+Manager-231 (26892): work queue is empty
+Manager-226 (26887): work queue is empty
+Manager-229 (26890): work queue is empty
+Manager-233 (26982): starting worker EuRejectWorker-225
+Manager-234 (26983): starting worker EuRejectWorker-226
+Manager-235 (26984): starting worker EuRejectWorker-227
+Manager-237 (26986): starting worker EuRejectWorker-229
+Manager-238 (26987): starting worker EuRejectWorker-230
+Manager-240 (26989): starting worker EuRejectWorker-231
+Manager-236 (26985): starting worker EuRejectWorker-228
+Manager-239 (26988): starting worker EuRejectWorker-232
+Manager-233 (26982): worker EuRejectWorker-225 finished
+Manager-237 (26986): worker EuRejectWorker-229 finished
+Manager-235 (26984): worker EuRejectWorker-227 finished
+Manager-239 (26988): worker EuRejectWorker-232 finished
+Manager-234 (26983): worker EuRejectWorker-226 finished
+Manager-240 (26989): worker EuRejectWorker-231 finished
+Manager-236 (26985): worker EuRejectWorker-228 finished
+Manager-238 (26987): worker EuRejectWorker-230 finished
+Manager-233 (26982): work queue is empty
+Manager-239 (26988): work queue is empty
+Manager-235 (26984): work queue is empty
+Manager-237 (26986): work queue is empty
+Manager-234 (26983): work queue is empty
+Manager-240 (26989): work queue is empty
+Manager-236 (26985): work queue is empty
+Manager-238 (26987): work queue is empty
+Manager-241 (27084): starting worker EuRejectWorker-233
+Manager-242 (27085): starting worker EuRejectWorker-234
+Manager-243 (27086): starting worker EuRejectWorker-235
+Manager-245 (27088): starting worker EuRejectWorker-237
+Manager-244 (27087): starting worker EuRejectWorker-236
+Manager-246 (27089): starting worker EuRejectWorker-238
+Manager-247 (27090): starting worker EuRejectWorker-239
+Manager-248 (27091): starting worker EuRejectWorker-240
+Manager-247 (27090): worker EuRejectWorker-239 finished
+Manager-246 (27089): worker EuRejectWorker-238 finished
+Manager-248 (27091): worker EuRejectWorker-240 finished
+Manager-242 (27085): worker EuRejectWorker-234 finished
+Manager-244 (27087): worker EuRejectWorker-236 finished
+Manager-245 (27088): worker EuRejectWorker-237 finished
+Manager-243 (27086): worker EuRejectWorker-235 finished
+Manager-241 (27084): worker EuRejectWorker-233 finished
+Manager-246 (27089): work queue is empty
+Manager-247 (27090): work queue is empty
+Manager-244 (27087): work queue is empty
+Manager-248 (27091): work queue is empty
+Manager-242 (27085): work queue is empty
+Manager-245 (27088): work queue is empty
+Manager-243 (27086): work queue is empty
+Manager-241 (27084): work queue is empty
+Manager-249 (27180): starting worker EuRejectWorker-241
+Manager-250 (27181): starting worker EuRejectWorker-242
+Manager-252 (27183): starting worker EuRejectWorker-244
+Manager-251 (27182): starting worker EuRejectWorker-243
+Manager-254 (27185): starting worker EuRejectWorker-246
+Manager-253 (27184): starting worker EuRejectWorker-245
+Manager-255 (27186): starting worker EuRejectWorker-247
+Manager-256 (27187): starting worker EuRejectWorker-248
+Manager-249 (27180): worker EuRejectWorker-241 finished
+Manager-252 (27183): worker EuRejectWorker-244 finished
+Manager-255 (27186): worker EuRejectWorker-247 finished
+Manager-254 (27185): worker EuRejectWorker-246 finished
+Manager-250 (27181): worker EuRejectWorker-242 finished
+Manager-251 (27182): worker EuRejectWorker-243 finished
+Manager-256 (27187): worker EuRejectWorker-248 finished
+Manager-253 (27184): worker EuRejectWorker-245 finished
+Manager-249 (27180): work queue is empty
+Manager-254 (27185): work queue is empty
+Manager-252 (27183): work queue is empty
+Manager-250 (27181): work queue is empty
+Manager-255 (27186): work queue is empty
+Manager-251 (27182): work queue is empty
+Manager-256 (27187): work queue is empty
+Manager-253 (27184): work queue is empty
+Manager-257 (27258): starting worker EuRejectWorker-249
+Manager-259 (27260): starting worker EuRejectWorker-250
+Manager-258 (27259): starting worker EuRejectWorker-251
+Manager-260 (27261): starting worker EuRejectWorker-252
+Manager-261 (27262): starting worker EuRejectWorker-253
+Manager-262 (27263): starting worker EuRejectWorker-254
+Manager-264 (27265): starting worker EuRejectWorker-255
+Manager-263 (27264): starting worker EuRejectWorker-256
+Manager-262 (27263): worker EuRejectWorker-254 finished
+Manager-257 (27258): worker EuRejectWorker-249 finished
+Manager-263 (27264): worker EuRejectWorker-256 finished
+Manager-259 (27260): worker EuRejectWorker-250 finished
+Manager-260 (27261): worker EuRejectWorker-252 finished
+Manager-261 (27262): worker EuRejectWorker-253 finished
+Manager-264 (27265): worker EuRejectWorker-255 finished
+Manager-258 (27259): worker EuRejectWorker-251 finished
+Manager-263 (27264): work queue is empty
+Manager-257 (27258): work queue is empty
+Manager-262 (27263): work queue is empty
+Manager-259 (27260): work queue is empty
+Manager-260 (27261): work queue is empty
+Manager-261 (27262): work queue is empty
+Manager-264 (27265): work queue is empty
+Manager-258 (27259): work queue is empty
+Manager-265 (27348): starting worker EuRejectWorker-257
+Manager-266 (27349): starting worker EuRejectWorker-258
+Manager-267 (27350): starting worker EuRejectWorker-259
+Manager-268 (27351): starting worker EuRejectWorker-260
+Manager-269 (27352): starting worker EuRejectWorker-261
+Manager-270 (27353): starting worker EuRejectWorker-262
+Manager-271 (27354): starting worker EuRejectWorker-263
+Manager-272 (27355): starting worker EuRejectWorker-264
+Manager-269 (27352): worker EuRejectWorker-261 finished
+Manager-267 (27350): worker EuRejectWorker-259 finished
+Manager-270 (27353): worker EuRejectWorker-262 finished
+Manager-271 (27354): worker EuRejectWorker-263 finished
+Manager-266 (27349): worker EuRejectWorker-258 finished
+Manager-272 (27355): worker EuRejectWorker-264 finished
+Manager-265 (27348): worker EuRejectWorker-257 finished
+Manager-268 (27351): worker EuRejectWorker-260 finished
+Manager-267 (27350): work queue is empty
+Manager-270 (27353): work queue is empty
+Manager-266 (27349): work queue is empty
+Manager-272 (27355): work queue is empty
+Manager-269 (27352): work queue is empty
+Manager-271 (27354): work queue is empty
+Manager-265 (27348): work queue is empty
+Manager-268 (27351): work queue is empty
+Manager-273 (27444): starting worker EuRejectWorker-265
+Manager-274 (27445): starting worker EuRejectWorker-266
+Manager-275 (27446): starting worker EuRejectWorker-267
+Manager-276 (27447): starting worker EuRejectWorker-268
+Manager-277 (27448): starting worker EuRejectWorker-269
+Manager-278 (27449): starting worker EuRejectWorker-270
+Manager-279 (27450): starting worker EuRejectWorker-271
+Manager-280 (27451): starting worker EuRejectWorker-272
+Manager-277 (27448): worker EuRejectWorker-269 finished
+Manager-273 (27444): worker EuRejectWorker-265 finished
+Manager-274 (27445): worker EuRejectWorker-266 finished
+Manager-280 (27451): worker EuRejectWorker-272 finished
+Manager-276 (27447): worker EuRejectWorker-268 finished
+Manager-279 (27450): worker EuRejectWorker-271 finished
+Manager-278 (27449): worker EuRejectWorker-270 finished
+Manager-275 (27446): worker EuRejectWorker-267 finished
+Manager-276 (27447): work queue is empty
+Manager-273 (27444): work queue is empty
+Manager-280 (27451): work queue is empty
+Manager-277 (27448): work queue is empty
+Manager-279 (27450): work queue is empty
+Manager-278 (27449): work queue is empty
+Manager-274 (27445): work queue is empty
+Manager-275 (27446): work queue is empty
+Manager-281 (27546): starting worker EuRejectWorker-273
+Manager-284 (27549): starting worker EuRejectWorker-274
+Manager-283 (27548): starting worker EuRejectWorker-275
+Manager-282 (27547): starting worker EuRejectWorker-276
+Manager-285 (27550): starting worker EuRejectWorker-277
+Manager-286 (27551): starting worker EuRejectWorker-278
+Manager-287 (27552): starting worker EuRejectWorker-279
+Manager-288 (27553): starting worker EuRejectWorker-280
+Manager-283 (27548): worker EuRejectWorker-275 finished
+Manager-285 (27550): worker EuRejectWorker-277 finished
+Manager-281 (27546): worker EuRejectWorker-273 finished
+Manager-284 (27549): worker EuRejectWorker-274 finished
+Manager-287 (27552): worker EuRejectWorker-279 finished
+Manager-286 (27551): worker EuRejectWorker-278 finished
+Manager-288 (27553): worker EuRejectWorker-280 finished
+Manager-282 (27547): worker EuRejectWorker-276 finished
+Manager-285 (27550): work queue is empty
+Manager-283 (27548): work queue is empty
+Manager-286 (27551): work queue is empty
+Manager-281 (27546): work queue is empty
+Manager-284 (27549): work queue is empty
+Manager-287 (27552): work queue is empty
+Manager-288 (27553): work queue is empty
+Manager-282 (27547): work queue is empty
+Manager-289 (27644): starting worker EuRejectWorker-281
+Manager-290 (27645): starting worker EuRejectWorker-282
+Manager-291 (27646): starting worker EuRejectWorker-283
+Manager-292 (27647): starting worker EuRejectWorker-284
+Manager-294 (27649): starting worker EuRejectWorker-286
+Manager-295 (27650): starting worker EuRejectWorker-287
+Manager-293 (27648): starting worker EuRejectWorker-285
+Manager-296 (27651): starting worker EuRejectWorker-288
+Manager-291 (27646): worker EuRejectWorker-283 finished
+Manager-290 (27645): worker EuRejectWorker-282 finished
+Manager-292 (27647): worker EuRejectWorker-284 finished
+Manager-296 (27651): worker EuRejectWorker-288 finished
+Manager-295 (27650): worker EuRejectWorker-287 finished
+Manager-289 (27644): worker EuRejectWorker-281 finished
+Manager-293 (27648): worker EuRejectWorker-285 finished
+Manager-294 (27649): worker EuRejectWorker-286 finished
+Manager-291 (27646): work queue is empty
+Manager-290 (27645): work queue is empty
+Manager-292 (27647): work queue is empty
+Manager-296 (27651): work queue is empty
+Manager-295 (27650): work queue is empty
+Manager-289 (27644): work queue is empty
+Manager-293 (27648): work queue is empty
+Manager-294 (27649): work queue is empty
+Manager-297 (27740): starting worker EuRejectWorker-289
+Manager-298 (27741): starting worker EuRejectWorker-290
+Manager-299 (27742): starting worker EuRejectWorker-291
+Manager-300 (27743): starting worker EuRejectWorker-292
+Manager-301 (27744): starting worker EuRejectWorker-293
+Manager-302 (27745): starting worker EuRejectWorker-294
+Manager-303 (27746): starting worker EuRejectWorker-295
+Manager-304 (27749): starting worker EuRejectWorker-296
+Manager-297 (27740): worker EuRejectWorker-289 finished
+Manager-301 (27744): worker EuRejectWorker-293 finished
+Manager-299 (27742): worker EuRejectWorker-291 finished
+Manager-300 (27743): worker EuRejectWorker-292 finished
+Manager-298 (27741): worker EuRejectWorker-290 finished
+Manager-303 (27746): worker EuRejectWorker-295 finished
+Manager-304 (27749): worker EuRejectWorker-296 finished
+Manager-302 (27745): worker EuRejectWorker-294 finished
+Manager-297 (27740): work queue is empty
+Manager-299 (27742): work queue is empty
+Manager-300 (27743): work queue is empty
+Manager-301 (27744): work queue is empty
+Manager-298 (27741): work queue is empty
+Manager-303 (27746): work queue is empty
+Manager-304 (27749): work queue is empty
+Manager-302 (27745): work queue is empty
+Manager-305 (27842): starting worker EuRejectWorker-297
+Manager-306 (27843): starting worker EuRejectWorker-298
+Manager-307 (27844): starting worker EuRejectWorker-300
+Manager-308 (27845): starting worker EuRejectWorker-299
+Manager-309 (27846): starting worker EuRejectWorker-301
+Manager-310 (27847): starting worker EuRejectWorker-302
+Manager-312 (27849): starting worker EuRejectWorker-303
+Manager-311 (27848): starting worker EuRejectWorker-304
+Manager-307 (27844): worker EuRejectWorker-300 finished
+Manager-309 (27846): worker EuRejectWorker-301 finished
+Manager-311 (27848): worker EuRejectWorker-304 finished
+Manager-305 (27842): worker EuRejectWorker-297 finished
+Manager-312 (27849): worker EuRejectWorker-303 finished
+Manager-308 (27845): worker EuRejectWorker-299 finished
+Manager-306 (27843): worker EuRejectWorker-298 finished
+Manager-310 (27847): worker EuRejectWorker-302 finished
+Manager-307 (27844): work queue is empty
+Manager-309 (27846): work queue is empty
+Manager-311 (27848): work queue is empty
+Manager-305 (27842): work queue is empty
+Manager-312 (27849): work queue is empty
+Manager-308 (27845): work queue is empty
+Manager-306 (27843): work queue is empty
+Manager-310 (27847): work queue is empty
+Manager-313 (27938): starting worker EuRejectWorker-305
+Manager-314 (27939): starting worker EuRejectWorker-306
+Manager-315 (27940): starting worker EuRejectWorker-307
+Manager-316 (27941): starting worker EuRejectWorker-308
+Manager-317 (27942): starting worker EuRejectWorker-309
+Manager-318 (27943): starting worker EuRejectWorker-310
+Manager-319 (27944): starting worker EuRejectWorker-311
+Manager-320 (27945): starting worker EuRejectWorker-312
+Manager-316 (27941): worker EuRejectWorker-308 finished
+Manager-319 (27944): worker EuRejectWorker-311 finished
+Manager-318 (27943): worker EuRejectWorker-310 finished
+Manager-315 (27940): worker EuRejectWorker-307 finished
+Manager-314 (27939): worker EuRejectWorker-306 finished
+Manager-317 (27942): worker EuRejectWorker-309 finished
+Manager-320 (27945): worker EuRejectWorker-312 finished
+Manager-313 (27938): worker EuRejectWorker-305 finished
+Manager-316 (27941): work queue is empty
+Manager-319 (27944): work queue is empty
+Manager-318 (27943): work queue is empty
+Manager-315 (27940): work queue is empty
+Manager-314 (27939): work queue is empty
+Manager-317 (27942): work queue is empty
+Manager-320 (27945): work queue is empty
+Manager-313 (27938): work queue is empty
+Manager-321 (28042): starting worker EuRejectWorker-313
+Manager-322 (28043): starting worker EuRejectWorker-314
+Manager-324 (28045): starting worker EuRejectWorker-316
+Manager-323 (28044): starting worker EuRejectWorker-315
+Manager-325 (28046): starting worker EuRejectWorker-317
+Manager-326 (28047): starting worker EuRejectWorker-318
+Manager-327 (28048): starting worker EuRejectWorker-319
+Manager-328 (28049): starting worker EuRejectWorker-320
+Manager-324 (28045): worker EuRejectWorker-316 finished
+Manager-323 (28044): worker EuRejectWorker-315 finished
+Manager-326 (28047): worker EuRejectWorker-318 finished
+Manager-322 (28043): worker EuRejectWorker-314 finished
+Manager-327 (28048): worker EuRejectWorker-319 finished
+Manager-328 (28049): worker EuRejectWorker-320 finished
+Manager-325 (28046): worker EuRejectWorker-317 finished
+Manager-321 (28042): worker EuRejectWorker-313 finished
+Manager-323 (28044): work queue is empty
+Manager-326 (28047): work queue is empty
+Manager-324 (28045): work queue is empty
+Manager-327 (28048): work queue is empty
+Manager-322 (28043): work queue is empty
+Manager-328 (28049): work queue is empty
+Manager-325 (28046): work queue is empty
+Manager-321 (28042): work queue is empty
+Manager-329 (28141): starting worker EuRejectWorker-321
+Manager-330 (28142): starting worker EuRejectWorker-322
+Manager-331 (28143): starting worker EuRejectWorker-323
+Manager-332 (28144): starting worker EuRejectWorker-324
+Manager-333 (28145): starting worker EuRejectWorker-325
+Manager-334 (28146): starting worker EuRejectWorker-326
+Manager-335 (28147): starting worker EuRejectWorker-327
+Manager-336 (28148): starting worker EuRejectWorker-328
+Manager-329 (28141): worker EuRejectWorker-321 finished
+Manager-330 (28142): worker EuRejectWorker-322 finished
+Manager-333 (28145): worker EuRejectWorker-325 finished
+Manager-334 (28146): worker EuRejectWorker-326 finished
+Manager-332 (28144): worker EuRejectWorker-324 finished
+Manager-331 (28143): worker EuRejectWorker-323 finished
+Manager-336 (28148): worker EuRejectWorker-328 finished
+Manager-335 (28147): worker EuRejectWorker-327 finished
+Manager-329 (28141): work queue is empty
+Manager-330 (28142): work queue is empty
+Manager-333 (28145): work queue is empty
+Manager-334 (28146): work queue is empty
+Manager-332 (28144): work queue is empty
+Manager-331 (28143): work queue is empty
+Manager-336 (28148): work queue is empty
+Manager-335 (28147): work queue is empty
+Manager-337 (28237): starting worker EuRejectWorker-329
+Manager-338 (28238): starting worker EuRejectWorker-330
+Manager-340 (28240): starting worker EuRejectWorker-332
+Manager-339 (28239): starting worker EuRejectWorker-331
+Manager-341 (28241): starting worker EuRejectWorker-333
+Manager-342 (28242): starting worker EuRejectWorker-334
+Manager-343 (28243): starting worker EuRejectWorker-335
+Manager-344 (28244): starting worker EuRejectWorker-336
+Manager-337 (28237): worker EuRejectWorker-329 finished
+Manager-340 (28240): worker EuRejectWorker-332 finished
+Manager-338 (28238): worker EuRejectWorker-330 finished
+Manager-339 (28239): worker EuRejectWorker-331 finished
+Manager-343 (28243): worker EuRejectWorker-335 finished
+Manager-341 (28241): worker EuRejectWorker-333 finished
+Manager-342 (28242): worker EuRejectWorker-334 finished
+Manager-344 (28244): worker EuRejectWorker-336 finished
+Manager-337 (28237): work queue is empty
+Manager-340 (28240): work queue is empty
+Manager-338 (28238): work queue is empty
+Manager-339 (28239): work queue is empty
+Manager-343 (28243): work queue is empty
+Manager-341 (28241): work queue is empty
+Manager-342 (28242): work queue is empty
+Manager-344 (28244): work queue is empty
+Manager-345 (28339): starting worker EuRejectWorker-337
+Manager-348 (28342): starting worker EuRejectWorker-338
+Manager-347 (28341): starting worker EuRejectWorker-339
+Manager-346 (28340): starting worker EuRejectWorker-340
+Manager-349 (28343): starting worker EuRejectWorker-341
+Manager-350 (28344): starting worker EuRejectWorker-342
+Manager-351 (28345): starting worker EuRejectWorker-343
+Manager-352 (28346): starting worker EuRejectWorker-344
+Manager-345 (28339): worker EuRejectWorker-337 finished
+Manager-349 (28343): worker EuRejectWorker-341 finished
+Manager-348 (28342): worker EuRejectWorker-338 finished
+Manager-352 (28346): worker EuRejectWorker-344 finished
+Manager-351 (28345): worker EuRejectWorker-343 finished
+Manager-350 (28344): worker EuRejectWorker-342 finished
+Manager-347 (28341): worker EuRejectWorker-339 finished
+Manager-346 (28340): worker EuRejectWorker-340 finished
+Manager-349 (28343): work queue is empty
+Manager-348 (28342): work queue is empty
+Manager-345 (28339): work queue is empty
+Manager-352 (28346): work queue is empty
+Manager-346 (28340): work queue is empty
+Manager-351 (28345): work queue is empty
+Manager-350 (28344): work queue is empty
+Manager-347 (28341): work queue is empty
+Manager-353 (28437): starting worker EuRejectWorker-345
+Manager-354 (28438): starting worker EuRejectWorker-346
+Manager-355 (28439): starting worker EuRejectWorker-347
+Manager-356 (28440): starting worker EuRejectWorker-348
+Manager-357 (28441): starting worker EuRejectWorker-349
+Manager-358 (28442): starting worker EuRejectWorker-350
+Manager-359 (28443): starting worker EuRejectWorker-351
+Manager-360 (28444): starting worker EuRejectWorker-352
+Manager-358 (28442): worker EuRejectWorker-350 finished
+Manager-353 (28437): worker EuRejectWorker-345 finished
+Manager-359 (28443): worker EuRejectWorker-351 finished
+Manager-354 (28438): worker EuRejectWorker-346 finished
+Manager-355 (28439): worker EuRejectWorker-347 finished
+Manager-357 (28441): worker EuRejectWorker-349 finished
+Manager-356 (28440): worker EuRejectWorker-348 finished
+Manager-360 (28444): worker EuRejectWorker-352 finished
+Manager-355 (28439): work queue is empty
+Manager-359 (28443): work queue is empty
+Manager-354 (28438): work queue is empty
+Manager-353 (28437): work queue is empty
+Manager-358 (28442): work queue is empty
+Manager-357 (28441): work queue is empty
+Manager-356 (28440): work queue is empty
+Manager-360 (28444): work queue is empty
+Manager-361 (28533): starting worker EuRejectWorker-353
+Manager-362 (28534): starting worker EuRejectWorker-354
+Manager-363 (28535): starting worker EuRejectWorker-355
+Manager-365 (28537): starting worker EuRejectWorker-357
+Manager-366 (28538): starting worker EuRejectWorker-358
+Manager-364 (28536): starting worker EuRejectWorker-356
+Manager-367 (28539): starting worker EuRejectWorker-359
+Manager-368 (28540): starting worker EuRejectWorker-360
+Manager-361 (28533): worker EuRejectWorker-353 finished
+Manager-366 (28538): worker EuRejectWorker-358 finished
+Manager-367 (28539): worker EuRejectWorker-359 finished
+Manager-364 (28536): worker EuRejectWorker-356 finished
+Manager-365 (28537): worker EuRejectWorker-357 finished
+Manager-368 (28540): worker EuRejectWorker-360 finished
+Manager-363 (28535): worker EuRejectWorker-355 finished
+Manager-362 (28534): worker EuRejectWorker-354 finished
+Manager-364 (28536): work queue is empty
+Manager-365 (28537): work queue is empty
+Manager-361 (28533): work queue is empty
+Manager-366 (28538): work queue is empty
+Manager-367 (28539): work queue is empty
+Manager-363 (28535): work queue is empty
+Manager-368 (28540): work queue is empty
+Manager-362 (28534): work queue is empty
+Manager-369 (28635): starting worker EuRejectWorker-361
+Manager-370 (28636): starting worker EuRejectWorker-362
+Manager-371 (28637): starting worker EuRejectWorker-363
+Manager-372 (28638): starting worker EuRejectWorker-364
+Manager-373 (28639): starting worker EuRejectWorker-365
+Manager-374 (28640): starting worker EuRejectWorker-366
+Manager-375 (28641): starting worker EuRejectWorker-367
+Manager-376 (28642): starting worker EuRejectWorker-368
+Manager-376 (28642): worker EuRejectWorker-368 finished
+Manager-372 (28638): worker EuRejectWorker-364 finished
+Manager-375 (28641): worker EuRejectWorker-367 finished
+Manager-369 (28635): worker EuRejectWorker-361 finished
+Manager-374 (28640): worker EuRejectWorker-366 finished
+Manager-373 (28639): worker EuRejectWorker-365 finished
+Manager-371 (28637): worker EuRejectWorker-363 finished
+Manager-370 (28636): worker EuRejectWorker-362 finished
+Manager-376 (28642): work queue is empty
+Manager-369 (28635): work queue is empty
+Manager-372 (28638): work queue is empty
+Manager-375 (28641): work queue is empty
+Manager-373 (28639): work queue is empty
+Manager-374 (28640): work queue is empty
+Manager-371 (28637): work queue is empty
+Manager-370 (28636): work queue is empty
+Manager-377 (28731): starting worker EuRejectWorker-369
+Manager-378 (28732): starting worker EuRejectWorker-370
+Manager-379 (28733): starting worker EuRejectWorker-371
+Manager-380 (28734): starting worker EuRejectWorker-372
+Manager-381 (28735): starting worker EuRejectWorker-373
+Manager-382 (28736): starting worker EuRejectWorker-374
+Manager-383 (28737): starting worker EuRejectWorker-375
+Manager-384 (28738): starting worker EuRejectWorker-376
+Manager-379 (28733): worker EuRejectWorker-371 finished
+Manager-380 (28734): worker EuRejectWorker-372 finished
+Manager-378 (28732): worker EuRejectWorker-370 finished
+Manager-377 (28731): worker EuRejectWorker-369 finished
+Manager-383 (28737): worker EuRejectWorker-375 finished
+Manager-381 (28735): worker EuRejectWorker-373 finished
+Manager-382 (28736): worker EuRejectWorker-374 finished
+Manager-384 (28738): worker EuRejectWorker-376 finished
+Manager-380 (28734): work queue is empty
+Manager-379 (28733): work queue is empty
+Manager-378 (28732): work queue is empty
+Manager-377 (28731): work queue is empty
+Manager-383 (28737): work queue is empty
+Manager-381 (28735): work queue is empty
+Manager-382 (28736): work queue is empty
+Manager-384 (28738): work queue is empty
+Manager-385 (28835): starting worker EuRejectWorker-377
+Manager-386 (28836): starting worker EuRejectWorker-378
+Manager-387 (28837): starting worker EuRejectWorker-379
+Manager-388 (28838): starting worker EuRejectWorker-380
+Manager-389 (28839): starting worker EuRejectWorker-381
+Manager-390 (28840): starting worker EuRejectWorker-382
+Manager-391 (28841): starting worker EuRejectWorker-383
+Manager-392 (28842): starting worker EuRejectWorker-384
+Manager-387 (28837): worker EuRejectWorker-379 finished
+Manager-392 (28842): worker EuRejectWorker-384 finished
+Manager-389 (28839): worker EuRejectWorker-381 finished
+Manager-391 (28841): worker EuRejectWorker-383 finished
+Manager-386 (28836): worker EuRejectWorker-378 finished
+Manager-390 (28840): worker EuRejectWorker-382 finished
+Manager-385 (28835): worker EuRejectWorker-377 finished
+Manager-388 (28838): worker EuRejectWorker-380 finished
+Manager-387 (28837): work queue is empty
+Manager-392 (28842): work queue is empty
+Manager-391 (28841): work queue is empty
+Manager-389 (28839): work queue is empty
+Manager-386 (28836): work queue is empty
+Manager-390 (28840): work queue is empty
+Manager-385 (28835): work queue is empty
+Manager-388 (28838): work queue is empty
+Manager-393 (28931): starting worker EuRejectWorker-385
+Manager-395 (28933): starting worker EuRejectWorker-386
+Manager-394 (28932): starting worker EuRejectWorker-387
+Manager-396 (28934): starting worker EuRejectWorker-388
+Manager-397 (28935): starting worker EuRejectWorker-389
+Manager-398 (28936): starting worker EuRejectWorker-390
+Manager-400 (28938): starting worker EuRejectWorker-391
+Manager-399 (28937): starting worker EuRejectWorker-392
+Manager-397 (28935): worker EuRejectWorker-389 finished
+Manager-399 (28937): worker EuRejectWorker-392 finished
+Manager-400 (28938): worker EuRejectWorker-391 finished
+Manager-393 (28931): worker EuRejectWorker-385 finished
+Manager-398 (28936): worker EuRejectWorker-390 finished
+Manager-395 (28933): worker EuRejectWorker-386 finished
+Manager-396 (28934): worker EuRejectWorker-388 finished
+Manager-394 (28932): worker EuRejectWorker-387 finished
+Manager-399 (28937): work queue is empty
+Manager-400 (28938): work queue is empty
+Manager-398 (28936): work queue is empty
+Manager-397 (28935): work queue is empty
+Manager-393 (28931): work queue is empty
+Manager-395 (28933): work queue is empty
+Manager-396 (28934): work queue is empty
+Manager-394 (28932): work queue is empty
+Manager-401 (29027): starting worker EuRejectWorker-393
+Manager-402 (29028): starting worker EuRejectWorker-394
+Manager-403 (29029): starting worker EuRejectWorker-395
+Manager-404 (29030): starting worker EuRejectWorker-396
+Manager-405 (29031): starting worker EuRejectWorker-397
+Manager-406 (29032): starting worker EuRejectWorker-398
+Manager-407 (29033): starting worker EuRejectWorker-399
+Manager-408 (29034): starting worker EuRejectWorker-400
+Manager-401 (29027): worker EuRejectWorker-393 finished
+Manager-405 (29031): worker EuRejectWorker-397 finished
+Manager-403 (29029): worker EuRejectWorker-395 finished
+Manager-404 (29030): worker EuRejectWorker-396 finished
+Manager-407 (29033): worker EuRejectWorker-399 finished
+Manager-402 (29028): worker EuRejectWorker-394 finished
+Manager-408 (29034): worker EuRejectWorker-400 finished
+Manager-406 (29032): worker EuRejectWorker-398 finished
+Manager-405 (29031): work queue is empty
+Manager-401 (29027): work queue is empty
+Manager-403 (29029): work queue is empty
+Manager-404 (29030): work queue is empty
+Manager-407 (29033): work queue is empty
+Manager-402 (29028): work queue is empty
+Manager-408 (29034): work queue is empty
+Manager-406 (29032): work queue is empty
+Manager-409 (29129): starting worker EuRejectWorker-401
+Manager-410 (29130): starting worker EuRejectWorker-402
+Manager-411 (29131): starting worker EuRejectWorker-403
+Manager-412 (29132): starting worker EuRejectWorker-404
+Manager-413 (29133): starting worker EuRejectWorker-405
+Manager-414 (29134): starting worker EuRejectWorker-406
+Manager-415 (29135): starting worker EuRejectWorker-407
+Manager-416 (29136): starting worker EuRejectWorker-408
+Manager-410 (29130): worker EuRejectWorker-402 finished
+Manager-412 (29132): worker EuRejectWorker-404 finished
+Manager-409 (29129): worker EuRejectWorker-401 finished
+Manager-415 (29135): worker EuRejectWorker-407 finished
+Manager-411 (29131): worker EuRejectWorker-403 finished
+Manager-413 (29133): worker EuRejectWorker-405 finished
+Manager-416 (29136): worker EuRejectWorker-408 finished
+Manager-414 (29134): worker EuRejectWorker-406 finished
+Manager-412 (29132): work queue is empty
+Manager-411 (29131): work queue is empty
+Manager-410 (29130): work queue is empty
+Manager-415 (29135): work queue is empty
+Manager-409 (29129): work queue is empty
+Manager-413 (29133): work queue is empty
+Manager-416 (29136): work queue is empty
+Manager-414 (29134): work queue is empty
+Manager-417 (29227): starting worker EuRejectWorker-409
+Manager-418 (29228): starting worker EuRejectWorker-410
+Manager-419 (29229): starting worker EuRejectWorker-411
+Manager-420 (29230): starting worker EuRejectWorker-412
+Manager-421 (29231): starting worker EuRejectWorker-413
+Manager-422 (29232): starting worker EuRejectWorker-414
+Manager-423 (29233): starting worker EuRejectWorker-415
+Manager-424 (29234): starting worker EuRejectWorker-416
+Manager-421 (29231): worker EuRejectWorker-413 finished
+Manager-417 (29227): worker EuRejectWorker-409 finished
+Manager-422 (29232): worker EuRejectWorker-414 finished
+Manager-420 (29230): worker EuRejectWorker-412 finished
+Manager-423 (29233): worker EuRejectWorker-415 finished
+Manager-419 (29229): worker EuRejectWorker-411 finished
+Manager-424 (29234): worker EuRejectWorker-416 finished
+Manager-418 (29228): worker EuRejectWorker-410 finished
+Manager-421 (29231): work queue is empty
+Manager-417 (29227): work queue is empty
+Manager-422 (29232): work queue is empty
+Manager-420 (29230): work queue is empty
+Manager-423 (29233): work queue is empty
+Manager-419 (29229): work queue is empty
+Manager-424 (29234): work queue is empty
+Manager-418 (29228): work queue is empty
+Manager-425 (29323): starting worker EuRejectWorker-417
+Manager-426 (29324): starting worker EuRejectWorker-418
+Manager-427 (29325): starting worker EuRejectWorker-419
+Manager-428 (29326): starting worker EuRejectWorker-420
+Manager-429 (29327): starting worker EuRejectWorker-421
+Manager-430 (29328): starting worker EuRejectWorker-422
+Manager-431 (29329): starting worker EuRejectWorker-423
+Manager-432 (29330): starting worker EuRejectWorker-424
+Manager-426 (29324): worker EuRejectWorker-418 finished
+Manager-425 (29323): worker EuRejectWorker-417 finished
+Manager-428 (29326): worker EuRejectWorker-420 finished
+Manager-429 (29327): worker EuRejectWorker-421 finished
+Manager-432 (29330): worker EuRejectWorker-424 finished
+Manager-427 (29325): worker EuRejectWorker-419 finished
+Manager-431 (29329): worker EuRejectWorker-423 finished
+Manager-430 (29328): worker EuRejectWorker-422 finished
+Manager-425 (29323): work queue is empty
+Manager-426 (29324): work queue is empty
+Manager-428 (29326): work queue is empty
+Manager-432 (29330): work queue is empty
+Manager-429 (29327): work queue is empty
+Manager-427 (29325): work queue is empty
+Manager-431 (29329): work queue is empty
+Manager-430 (29328): work queue is empty
+Manager-433 (29425): starting worker EuRejectWorker-425
+Manager-434 (29426): starting worker EuRejectWorker-426
+Manager-435 (29427): starting worker EuRejectWorker-427
+Manager-436 (29428): starting worker EuRejectWorker-428
+Manager-437 (29429): starting worker EuRejectWorker-429
+Manager-438 (29430): starting worker EuRejectWorker-430
+Manager-440 (29432): starting worker EuRejectWorker-431
+Manager-439 (29431): starting worker EuRejectWorker-432
+Manager-435 (29427): worker EuRejectWorker-427 finished
+Manager-437 (29429): worker EuRejectWorker-429 finished
+Manager-438 (29430): worker EuRejectWorker-430 finished
+Manager-433 (29425): worker EuRejectWorker-425 finished
+Manager-440 (29432): worker EuRejectWorker-431 finished
+Manager-439 (29431): worker EuRejectWorker-432 finished
+Manager-434 (29426): worker EuRejectWorker-426 finished
+Manager-436 (29428): worker EuRejectWorker-428 finished
+Manager-438 (29430): work queue is empty
+Manager-435 (29427): work queue is empty
+Manager-433 (29425): work queue is empty
+Manager-440 (29432): work queue is empty
+Manager-437 (29429): work queue is empty
+Manager-439 (29431): work queue is empty
+Manager-434 (29426): work queue is empty
+Manager-436 (29428): work queue is empty
+Manager-441 (29521): starting worker EuRejectWorker-433
+Manager-442 (29522): starting worker EuRejectWorker-434
+Manager-443 (29523): starting worker EuRejectWorker-435
+Manager-444 (29524): starting worker EuRejectWorker-436
+Manager-445 (29525): starting worker EuRejectWorker-437
+Manager-446 (29526): starting worker EuRejectWorker-438
+Manager-447 (29527): starting worker EuRejectWorker-439
+Manager-448 (29528): starting worker EuRejectWorker-440
+Manager-442 (29522): worker EuRejectWorker-434 finished
+Manager-448 (29528): worker EuRejectWorker-440 finished
+Manager-443 (29523): worker EuRejectWorker-435 finished
+Manager-441 (29521): worker EuRejectWorker-433 finished
+Manager-445 (29525): worker EuRejectWorker-437 finished
+Manager-444 (29524): worker EuRejectWorker-436 finished
+Manager-446 (29526): worker EuRejectWorker-438 finished
+Manager-447 (29527): worker EuRejectWorker-439 finished
+Manager-443 (29523): work queue is empty
+Manager-448 (29528): work queue is empty
+Manager-442 (29522): work queue is empty
+Manager-441 (29521): work queue is empty
+Manager-445 (29525): work queue is empty
+Manager-444 (29524): work queue is empty
+Manager-446 (29526): work queue is empty
+Manager-447 (29527): work queue is empty
+Manager-449 (29625): starting worker EuRejectWorker-441
+Manager-450 (29626): starting worker EuRejectWorker-442
+Manager-451 (29627): starting worker EuRejectWorker-443
+Manager-452 (29628): starting worker EuRejectWorker-444
+Manager-453 (29629): starting worker EuRejectWorker-445
+Manager-454 (29630): starting worker EuRejectWorker-446
+Manager-455 (29631): starting worker EuRejectWorker-447
+Manager-456 (29632): starting worker EuRejectWorker-448
+Manager-451 (29627): worker EuRejectWorker-443 finished
+Manager-450 (29626): worker EuRejectWorker-442 finished
+Manager-453 (29629): worker EuRejectWorker-445 finished
+Manager-449 (29625): worker EuRejectWorker-441 finished
+Manager-452 (29628): worker EuRejectWorker-444 finished
+Manager-454 (29630): worker EuRejectWorker-446 finished
+Manager-456 (29632): worker EuRejectWorker-448 finished
+Manager-455 (29631): worker EuRejectWorker-447 finished
+Manager-450 (29626): work queue is empty
+Manager-451 (29627): work queue is empty
+Manager-449 (29625): work queue is empty
+Manager-453 (29629): work queue is empty
+Manager-452 (29628): work queue is empty
+Manager-454 (29630): work queue is empty
+Manager-456 (29632): work queue is empty
+Manager-455 (29631): work queue is empty
+Manager-457 (29721): starting worker EuRejectWorker-449
+Manager-458 (29722): starting worker EuRejectWorker-450
+Manager-459 (29723): starting worker EuRejectWorker-451
+Manager-460 (29724): starting worker EuRejectWorker-452
+Manager-461 (29725): starting worker EuRejectWorker-453
+Manager-462 (29726): starting worker EuRejectWorker-454
+Manager-463 (29727): starting worker EuRejectWorker-455
+Manager-464 (29728): starting worker EuRejectWorker-456
+Manager-460 (29724): worker EuRejectWorker-452 finished
+Manager-459 (29723): worker EuRejectWorker-451 finished
+Manager-463 (29727): worker EuRejectWorker-455 finished
+Manager-461 (29725): worker EuRejectWorker-453 finished
+Manager-458 (29722): worker EuRejectWorker-450 finished
+Manager-457 (29721): worker EuRejectWorker-449 finished
+Manager-462 (29726): worker EuRejectWorker-454 finished
+Manager-464 (29728): worker EuRejectWorker-456 finished
+Manager-460 (29724): work queue is empty
+Manager-459 (29723): work queue is empty
+Manager-463 (29727): work queue is empty
+Manager-461 (29725): work queue is empty
+Manager-458 (29722): work queue is empty
+Manager-457 (29721): work queue is empty
+Manager-462 (29726): work queue is empty
+Manager-464 (29728): work queue is empty
+Manager-465 (29817): starting worker EuRejectWorker-457
+Manager-466 (29818): starting worker EuRejectWorker-458
+Manager-467 (29819): starting worker EuRejectWorker-459
+Manager-468 (29820): starting worker EuRejectWorker-460
+Manager-469 (29821): starting worker EuRejectWorker-461
+Manager-470 (29822): starting worker EuRejectWorker-462
+Manager-471 (29823): starting worker EuRejectWorker-463
+Manager-472 (29824): starting worker EuRejectWorker-464
+Manager-469 (29821): worker EuRejectWorker-461 finished
+Manager-467 (29819): worker EuRejectWorker-459 finished
+Manager-465 (29817): worker EuRejectWorker-457 finished
+Manager-468 (29820): worker EuRejectWorker-460 finished
+Manager-466 (29818): worker EuRejectWorker-458 finished
+Manager-471 (29823): worker EuRejectWorker-463 finished
+Manager-472 (29824): worker EuRejectWorker-464 finished
+Manager-470 (29822): worker EuRejectWorker-462 finished
+Manager-465 (29817): work queue is empty
+Manager-469 (29821): work queue is empty
+Manager-468 (29820): work queue is empty
+Manager-467 (29819): work queue is empty
+Manager-466 (29818): work queue is empty
+Manager-471 (29823): work queue is empty
+Manager-472 (29824): work queue is empty
+Manager-470 (29822): work queue is empty
+Manager-473 (29919): starting worker EuRejectWorker-465
+Manager-474 (29920): starting worker EuRejectWorker-466
+Manager-475 (29921): starting worker EuRejectWorker-467
+Manager-476 (29922): starting worker EuRejectWorker-468
+Manager-477 (29923): starting worker EuRejectWorker-469
+Manager-478 (29924): starting worker EuRejectWorker-470
+Manager-479 (29925): starting worker EuRejectWorker-471
+Manager-480 (29926): starting worker EuRejectWorker-472
+Manager-476 (29922): worker EuRejectWorker-468 finished
+Manager-478 (29924): worker EuRejectWorker-470 finished
+Manager-477 (29923): worker EuRejectWorker-469 finished
+Manager-479 (29925): worker EuRejectWorker-471 finished
+Manager-480 (29926): worker EuRejectWorker-472 finished
+Manager-473 (29919): worker EuRejectWorker-465 finished
+Manager-474 (29920): worker EuRejectWorker-466 finished
+Manager-475 (29921): worker EuRejectWorker-467 finished
+Manager-477 (29923): work queue is empty
+Manager-476 (29922): work queue is empty
+Manager-479 (29925): work queue is empty
+Manager-478 (29924): work queue is empty
+Manager-480 (29926): work queue is empty
+Manager-473 (29919): work queue is empty
+Manager-474 (29920): work queue is empty
+Manager-475 (29921): work queue is empty
+Manager-481 (30017): starting worker EuRejectWorker-473
+Manager-482 (30018): starting worker EuRejectWorker-474
+Manager-483 (30019): starting worker EuRejectWorker-475
+Manager-485 (30021): starting worker EuRejectWorker-476
+Manager-484 (30020): starting worker EuRejectWorker-477
+Manager-486 (30022): starting worker EuRejectWorker-478
+Manager-487 (30023): starting worker EuRejectWorker-479
+Manager-488 (30024): starting worker EuRejectWorker-480
+Manager-481 (30017): worker EuRejectWorker-473 finished
+Manager-486 (30022): worker EuRejectWorker-478 finished
+Manager-482 (30018): worker EuRejectWorker-474 finished
+Manager-488 (30024): worker EuRejectWorker-480 finished
+Manager-484 (30020): worker EuRejectWorker-477 finished
+Manager-485 (30021): worker EuRejectWorker-476 finished
+Manager-483 (30019): worker EuRejectWorker-475 finished
+Manager-487 (30023): worker EuRejectWorker-479 finished
+Manager-486 (30022): work queue is empty
+Manager-481 (30017): work queue is empty
+Manager-482 (30018): work queue is empty
+Manager-484 (30020): work queue is empty
+Manager-488 (30024): work queue is empty
+Manager-483 (30019): work queue is empty
+Manager-485 (30021): work queue is empty
+Manager-487 (30023): work queue is empty
+Manager-489 (30113): starting worker EuRejectWorker-481
+Manager-490 (30114): starting worker EuRejectWorker-482
+Manager-491 (30115): starting worker EuRejectWorker-483
+Manager-492 (30116): starting worker EuRejectWorker-484
+Manager-493 (30117): starting worker EuRejectWorker-485
+Manager-494 (30118): starting worker EuRejectWorker-486
+Manager-495 (30119): starting worker EuRejectWorker-487
+Manager-496 (30120): starting worker EuRejectWorker-488
+Manager-490 (30114): worker EuRejectWorker-482 finished
+Manager-489 (30113): worker EuRejectWorker-481 finished
+Manager-495 (30119): worker EuRejectWorker-487 finished
+Manager-491 (30115): worker EuRejectWorker-483 finished
+Manager-493 (30117): worker EuRejectWorker-485 finished
+Manager-492 (30116): worker EuRejectWorker-484 finished
+Manager-494 (30118): worker EuRejectWorker-486 finished
+Manager-496 (30120): worker EuRejectWorker-488 finished
+Manager-495 (30119): work queue is empty
+Manager-490 (30114): work queue is empty
+Manager-491 (30115): work queue is empty
+Manager-489 (30113): work queue is empty
+Manager-492 (30116): work queue is empty
+Manager-493 (30117): work queue is empty
+Manager-494 (30118): work queue is empty
+Manager-496 (30120): work queue is empty
+Manager-497 (30215): starting worker EuRejectWorker-489
+Manager-498 (30216): starting worker EuRejectWorker-490
+Manager-499 (30217): starting worker EuRejectWorker-491
+Manager-500 (30218): starting worker EuRejectWorker-492
+Manager-501 (30219): starting worker EuRejectWorker-493
+Manager-502 (30220): starting worker EuRejectWorker-494
+Manager-503 (30221): starting worker EuRejectWorker-495
+Manager-504 (30222): starting worker EuRejectWorker-496
+Manager-497 (30215): worker EuRejectWorker-489 finished
+Manager-499 (30217): worker EuRejectWorker-491 finished
+Manager-498 (30216): worker EuRejectWorker-490 finished
+Manager-500 (30218): worker EuRejectWorker-492 finished
+Manager-501 (30219): worker EuRejectWorker-493 finished
+Manager-502 (30220): worker EuRejectWorker-494 finished
+Manager-504 (30222): worker EuRejectWorker-496 finished
+Manager-503 (30221): worker EuRejectWorker-495 finished
+Manager-497 (30215): work queue is empty
+Manager-499 (30217): work queue is empty
+Manager-498 (30216): work queue is empty
+Manager-501 (30219): work queue is empty
+Manager-500 (30218): work queue is empty
+Manager-502 (30220): work queue is empty
+Manager-504 (30222): work queue is empty
+Manager-503 (30221): work queue is empty
+Manager-505 (30299): starting worker EuRejectWorker-497
+Manager-506 (30300): starting worker EuRejectWorker-498
+Manager-507 (30301): starting worker EuRejectWorker-499
+Manager-508 (30302): starting worker EuRejectWorker-500
+Manager-509 (30303): work queue is empty
+Manager-510 (30304): work queue is empty
+Manager-511 (30305): work queue is empty
+Manager-512 (30306): work queue is empty
+Manager-505 (30299): worker EuRejectWorker-497 finished
+Manager-506 (30300): worker EuRejectWorker-498 finished
+Manager-507 (30301): worker EuRejectWorker-499 finished
+Manager-508 (30302): worker EuRejectWorker-500 finished
+Manager-506 (30300): work queue is empty
+Manager-505 (30299): work queue is empty
+Manager-507 (30301): work queue is empty
+Manager-508 (30302): work queue is empty
+Running final regressions...
+Manager-513 (30383): starting worker PosteriorWorker-1
+Manager-514 (30384): starting worker PosteriorWorker-2
+Manager-515 (30385): starting worker PosteriorWorker-3
+Manager-516 (30386): starting worker PosteriorWorker-4
+Manager-517 (30387): starting worker PosteriorWorker-5
+Manager-518 (30388): starting worker PosteriorWorker-6
+Manager-520 (30390): starting worker PosteriorWorker-7
+Manager-519 (30389): starting worker PosteriorWorker-8
+Manager-518 (30388): worker PosteriorWorker-6 finished
+Manager-518 (30388): starting worker PosteriorWorker-9
+Manager-516 (30386): worker PosteriorWorker-4 finished
+Manager-516 (30386): starting worker PosteriorWorker-10
+Manager-514 (30384): worker PosteriorWorker-2 finished
+Manager-514 (30384): starting worker PosteriorWorker-11
+Manager-520 (30390): worker PosteriorWorker-7 finished
+Manager-520 (30390): starting worker PosteriorWorker-12
+Manager-517 (30387): worker PosteriorWorker-5 finished
+Manager-517 (30387): starting worker PosteriorWorker-13
+Manager-515 (30385): worker PosteriorWorker-3 finished
+Manager-515 (30385): starting worker PosteriorWorker-14
+Manager-519 (30389): worker PosteriorWorker-8 finished
+Manager-519 (30389): starting worker PosteriorWorker-15
+Manager-513 (30383): worker PosteriorWorker-1 finished
+Manager-513 (30383): starting worker PosteriorWorker-16
+Manager-516 (30386): worker PosteriorWorker-10 finished
+Manager-516 (30386): starting worker PosteriorWorker-17
+Manager-520 (30390): worker PosteriorWorker-12 finished
+Manager-520 (30390): starting worker PosteriorWorker-18
+Manager-514 (30384): worker PosteriorWorker-11 finished
+Manager-514 (30384): starting worker PosteriorWorker-19
+Manager-517 (30387): worker PosteriorWorker-13 finished
+Manager-517 (30387): starting worker PosteriorWorker-20
+Manager-518 (30388): worker PosteriorWorker-9 finished
+Manager-518 (30388): starting worker PosteriorWorker-21
+Manager-513 (30383): worker PosteriorWorker-16 finished
+Manager-513 (30383): starting worker PosteriorWorker-22
+Manager-515 (30385): worker PosteriorWorker-14 finished
+Manager-515 (30385): starting worker PosteriorWorker-23
+Manager-519 (30389): worker PosteriorWorker-15 finished
+Manager-519 (30389): starting worker PosteriorWorker-24
+Manager-514 (30384): worker PosteriorWorker-19 finished
+Manager-514 (30384): starting worker PosteriorWorker-25
+Manager-520 (30390): worker PosteriorWorker-18 finished
+Manager-520 (30390): starting worker PosteriorWorker-26
+Manager-516 (30386): worker PosteriorWorker-17 finished
+Manager-516 (30386): starting worker PosteriorWorker-27
+Manager-517 (30387): worker PosteriorWorker-20 finished
+Manager-517 (30387): starting worker PosteriorWorker-28
+Manager-519 (30389): worker PosteriorWorker-24 finished
+Manager-519 (30389): starting worker PosteriorWorker-29
+Manager-518 (30388): worker PosteriorWorker-21 finished
+Manager-518 (30388): starting worker PosteriorWorker-30
+Manager-513 (30383): worker PosteriorWorker-22 finished
+Manager-513 (30383): starting worker PosteriorWorker-31
+Manager-515 (30385): worker PosteriorWorker-23 finished
+Manager-515 (30385): starting worker PosteriorWorker-32
+Manager-514 (30384): worker PosteriorWorker-25 finished
+Manager-514 (30384): starting worker PosteriorWorker-33
+Manager-520 (30390): worker PosteriorWorker-26 finished
+Manager-516 (30386): worker PosteriorWorker-27 finished
+Manager-516 (30386): starting worker PosteriorWorker-34
+Manager-520 (30390): starting worker PosteriorWorker-35
+Manager-517 (30387): worker PosteriorWorker-28 finished
+Manager-517 (30387): starting worker PosteriorWorker-36
+Manager-519 (30389): worker PosteriorWorker-29 finished
+Manager-519 (30389): starting worker PosteriorWorker-37
+Manager-513 (30383): worker PosteriorWorker-31 finished
+Manager-513 (30383): starting worker PosteriorWorker-38
+Manager-515 (30385): worker PosteriorWorker-32 finished
+Manager-515 (30385): starting worker PosteriorWorker-39
+Manager-518 (30388): worker PosteriorWorker-30 finished
+Manager-518 (30388): starting worker PosteriorWorker-40
+Manager-514 (30384): worker PosteriorWorker-33 finished
+Manager-514 (30384): starting worker PosteriorWorker-41
+Manager-517 (30387): worker PosteriorWorker-36 finished
+Manager-517 (30387): starting worker PosteriorWorker-42
+Manager-520 (30390): worker PosteriorWorker-35 finished
+Manager-520 (30390): starting worker PosteriorWorker-43
+Manager-519 (30389): worker PosteriorWorker-37 finished
+Manager-519 (30389): starting worker PosteriorWorker-44
+Manager-513 (30383): worker PosteriorWorker-38 finished
+Manager-513 (30383): starting worker PosteriorWorker-45
+Manager-515 (30385): worker PosteriorWorker-39 finished
+Manager-515 (30385): starting worker PosteriorWorker-46
+Manager-516 (30386): worker PosteriorWorker-34 finished
+Manager-516 (30386): starting worker PosteriorWorker-47
+Manager-518 (30388): worker PosteriorWorker-40 finished
+Manager-518 (30388): starting worker PosteriorWorker-48
+Manager-514 (30384): worker PosteriorWorker-41 finished
+Manager-514 (30384): starting worker PosteriorWorker-49
+Manager-517 (30387): worker PosteriorWorker-42 finished
+Manager-517 (30387): starting worker PosteriorWorker-50
+Manager-520 (30390): worker PosteriorWorker-43 finished
+Manager-520 (30390): starting worker PosteriorWorker-51
+Manager-519 (30389): worker PosteriorWorker-44 finished
+Manager-519 (30389): starting worker PosteriorWorker-52
+Manager-513 (30383): worker PosteriorWorker-45 finished
+Manager-513 (30383): starting worker PosteriorWorker-53
+Manager-515 (30385): worker PosteriorWorker-46 finished
+Manager-515 (30385): starting worker PosteriorWorker-54
+Manager-516 (30386): worker PosteriorWorker-47 finished
+Manager-516 (30386): starting worker PosteriorWorker-55
+Manager-518 (30388): worker PosteriorWorker-48 finished
+Manager-518 (30388): starting worker PosteriorWorker-56
+Manager-514 (30384): worker PosteriorWorker-49 finished
+Manager-514 (30384): starting worker PosteriorWorker-57
+Manager-517 (30387): worker PosteriorWorker-50 finished
+Manager-517 (30387): starting worker PosteriorWorker-58
+Manager-520 (30390): worker PosteriorWorker-51 finished
+Manager-520 (30390): starting worker PosteriorWorker-59
+Manager-516 (30386): worker PosteriorWorker-55 finished
+Manager-516 (30386): starting worker PosteriorWorker-60
+Manager-513 (30383): worker PosteriorWorker-53 finished
+Manager-513 (30383): starting worker PosteriorWorker-61
+Manager-519 (30389): worker PosteriorWorker-52 finished
+Manager-519 (30389): starting worker PosteriorWorker-62
+Manager-515 (30385): worker PosteriorWorker-54 finished
+Manager-515 (30385): starting worker PosteriorWorker-63
+Manager-518 (30388): worker PosteriorWorker-56 finished
+Manager-518 (30388): starting worker PosteriorWorker-64
+Manager-514 (30384): worker PosteriorWorker-57 finished
+Manager-514 (30384): starting worker PosteriorWorker-65
+Manager-520 (30390): worker PosteriorWorker-59 finished
+Manager-520 (30390): starting worker PosteriorWorker-66
+Manager-517 (30387): worker PosteriorWorker-58 finished
+Manager-517 (30387): starting worker PosteriorWorker-67
+Manager-516 (30386): worker PosteriorWorker-60 finished
+Manager-516 (30386): starting worker PosteriorWorker-68
+Manager-513 (30383): worker PosteriorWorker-61 finished
+Manager-513 (30383): starting worker PosteriorWorker-69
+Manager-519 (30389): worker PosteriorWorker-62 finished
+Manager-519 (30389): starting worker PosteriorWorker-70
+Manager-515 (30385): worker PosteriorWorker-63 finished
+Manager-515 (30385): starting worker PosteriorWorker-71
+Manager-518 (30388): worker PosteriorWorker-64 finished
+Manager-518 (30388): starting worker PosteriorWorker-72
+Manager-514 (30384): worker PosteriorWorker-65 finished
+Manager-514 (30384): starting worker PosteriorWorker-73
+Manager-520 (30390): worker PosteriorWorker-66 finished
+Manager-520 (30390): starting worker PosteriorWorker-74
+Manager-517 (30387): worker PosteriorWorker-67 finished
+Manager-517 (30387): starting worker PosteriorWorker-75
+Manager-516 (30386): worker PosteriorWorker-68 finished
+Manager-516 (30386): starting worker PosteriorWorker-76
+Manager-519 (30389): worker PosteriorWorker-70 finished
+Manager-519 (30389): starting worker PosteriorWorker-77
+Manager-513 (30383): worker PosteriorWorker-69 finished
+Manager-513 (30383): starting worker PosteriorWorker-78
+Manager-515 (30385): worker PosteriorWorker-71 finished
+Manager-515 (30385): starting worker PosteriorWorker-79
+Manager-518 (30388): worker PosteriorWorker-72 finished
+Manager-518 (30388): starting worker PosteriorWorker-80
+Manager-514 (30384): worker PosteriorWorker-73 finished
+Manager-514 (30384): starting worker PosteriorWorker-81
+Manager-520 (30390): worker PosteriorWorker-74 finished
+Manager-520 (30390): starting worker PosteriorWorker-82
+Manager-517 (30387): worker PosteriorWorker-75 finished
+Manager-517 (30387): starting worker PosteriorWorker-83
+Manager-516 (30386): worker PosteriorWorker-76 finished
+Manager-516 (30386): starting worker PosteriorWorker-84
+Manager-519 (30389): worker PosteriorWorker-77 finished
+Manager-519 (30389): starting worker PosteriorWorker-85
+Manager-513 (30383): worker PosteriorWorker-78 finished
+Manager-513 (30383): starting worker PosteriorWorker-86
+Manager-515 (30385): worker PosteriorWorker-79 finished
+Manager-515 (30385): starting worker PosteriorWorker-87
+Manager-518 (30388): worker PosteriorWorker-80 finished
+Manager-518 (30388): starting worker PosteriorWorker-88
+Manager-514 (30384): worker PosteriorWorker-81 finished
+Manager-514 (30384): starting worker PosteriorWorker-89
+Manager-520 (30390): worker PosteriorWorker-82 finished
+Manager-520 (30390): starting worker PosteriorWorker-90
+Manager-517 (30387): worker PosteriorWorker-83 finished
+Manager-517 (30387): starting worker PosteriorWorker-91
+Manager-516 (30386): worker PosteriorWorker-84 finished
+Manager-516 (30386): starting worker PosteriorWorker-92
+Manager-519 (30389): worker PosteriorWorker-85 finished
+Manager-519 (30389): starting worker PosteriorWorker-93
+Manager-515 (30385): worker PosteriorWorker-87 finished
+Manager-515 (30385): starting worker PosteriorWorker-94
+Manager-513 (30383): worker PosteriorWorker-86 finished
+Manager-513 (30383): starting worker PosteriorWorker-95
+Manager-518 (30388): worker PosteriorWorker-88 finished
+Manager-518 (30388): starting worker PosteriorWorker-96
+Manager-514 (30384): worker PosteriorWorker-89 finished
+Manager-514 (30384): starting worker PosteriorWorker-97
+Manager-520 (30390): worker PosteriorWorker-90 finished
+Manager-520 (30390): starting worker PosteriorWorker-98
+Manager-516 (30386): worker PosteriorWorker-92 finished
+Manager-516 (30386): starting worker PosteriorWorker-99
+Manager-517 (30387): worker PosteriorWorker-91 finished
+Manager-517 (30387): starting worker PosteriorWorker-100
+Manager-513 (30383): worker PosteriorWorker-95 finished
+Manager-513 (30383): starting worker PosteriorWorker-101
+Manager-515 (30385): worker PosteriorWorker-94 finished
+Manager-515 (30385): starting worker PosteriorWorker-102
+Manager-518 (30388): worker PosteriorWorker-96 finished
+Manager-518 (30388): starting worker PosteriorWorker-103
+Manager-519 (30389): worker PosteriorWorker-93 finished
+Manager-519 (30389): starting worker PosteriorWorker-104
+Manager-514 (30384): worker PosteriorWorker-97 finished
+Manager-514 (30384): starting worker PosteriorWorker-105
+Manager-520 (30390): worker PosteriorWorker-98 finished
+Manager-520 (30390): starting worker PosteriorWorker-106
+Manager-517 (30387): worker PosteriorWorker-100 finished
+Manager-517 (30387): starting worker PosteriorWorker-107
+Manager-516 (30386): worker PosteriorWorker-99 finished
+Manager-516 (30386): starting worker PosteriorWorker-108
+Manager-513 (30383): worker PosteriorWorker-101 finished
+Manager-513 (30383): starting worker PosteriorWorker-109
+Manager-515 (30385): worker PosteriorWorker-102 finished
+Manager-515 (30385): starting worker PosteriorWorker-110
+Manager-519 (30389): worker PosteriorWorker-104 finished
+Manager-519 (30389): starting worker PosteriorWorker-111
+Manager-518 (30388): worker PosteriorWorker-103 finished
+Manager-518 (30388): starting worker PosteriorWorker-112
+Manager-514 (30384): worker PosteriorWorker-105 finished
+Manager-514 (30384): starting worker PosteriorWorker-113
+Manager-520 (30390): worker PosteriorWorker-106 finished
+Manager-520 (30390): starting worker PosteriorWorker-114
+Manager-517 (30387): worker PosteriorWorker-107 finished
+Manager-517 (30387): starting worker PosteriorWorker-115
+Manager-516 (30386): worker PosteriorWorker-108 finished
+Manager-516 (30386): starting worker PosteriorWorker-116
+Manager-513 (30383): worker PosteriorWorker-109 finished
+Manager-513 (30383): starting worker PosteriorWorker-117
+Manager-515 (30385): worker PosteriorWorker-110 finished
+Manager-515 (30385): starting worker PosteriorWorker-118
+Manager-519 (30389): worker PosteriorWorker-111 finished
+Manager-519 (30389): starting worker PosteriorWorker-119
+Manager-518 (30388): worker PosteriorWorker-112 finished
+Manager-518 (30388): starting worker PosteriorWorker-120
+Manager-514 (30384): worker PosteriorWorker-113 finished
+Manager-514 (30384): starting worker PosteriorWorker-121
+Manager-520 (30390): worker PosteriorWorker-114 finished
+Manager-520 (30390): starting worker PosteriorWorker-122
+Manager-517 (30387): worker PosteriorWorker-115 finished
+Manager-517 (30387): starting worker PosteriorWorker-123
+Manager-516 (30386): worker PosteriorWorker-116 finished
+Manager-516 (30386): starting worker PosteriorWorker-124
+Manager-513 (30383): worker PosteriorWorker-117 finished
+Manager-513 (30383): starting worker PosteriorWorker-125
+Manager-515 (30385): worker PosteriorWorker-118 finished
+Manager-515 (30385): starting worker PosteriorWorker-126
+Manager-519 (30389): worker PosteriorWorker-119 finished
+Manager-519 (30389): starting worker PosteriorWorker-127
+Manager-518 (30388): worker PosteriorWorker-120 finished
+Manager-518 (30388): starting worker PosteriorWorker-128
+Manager-514 (30384): worker PosteriorWorker-121 finished
+Manager-514 (30384): starting worker PosteriorWorker-129
+Manager-520 (30390): worker PosteriorWorker-122 finished
+Manager-520 (30390): starting worker PosteriorWorker-130
+Manager-517 (30387): worker PosteriorWorker-123 finished
+Manager-517 (30387): starting worker PosteriorWorker-131
+Manager-513 (30383): worker PosteriorWorker-125 finished
+Manager-513 (30383): starting worker PosteriorWorker-132
+Manager-516 (30386): worker PosteriorWorker-124 finished
+Manager-516 (30386): starting worker PosteriorWorker-133
+Manager-515 (30385): worker PosteriorWorker-126 finished
+Manager-515 (30385): starting worker PosteriorWorker-134
+Manager-519 (30389): worker PosteriorWorker-127 finished
+Manager-519 (30389): starting worker PosteriorWorker-135
+Manager-518 (30388): worker PosteriorWorker-128 finished
+Manager-518 (30388): starting worker PosteriorWorker-136
+Manager-514 (30384): worker PosteriorWorker-129 finished
+Manager-514 (30384): starting worker PosteriorWorker-137
+Manager-520 (30390): worker PosteriorWorker-130 finished
+Manager-520 (30390): starting worker PosteriorWorker-138
+Manager-517 (30387): worker PosteriorWorker-131 finished
+Manager-517 (30387): starting worker PosteriorWorker-139
+Manager-513 (30383): worker PosteriorWorker-132 finished
+Manager-513 (30383): starting worker PosteriorWorker-140
+Manager-516 (30386): worker PosteriorWorker-133 finished
+Manager-516 (30386): starting worker PosteriorWorker-141
+Manager-515 (30385): worker PosteriorWorker-134 finished
+Manager-515 (30385): starting worker PosteriorWorker-142
+Manager-519 (30389): worker PosteriorWorker-135 finished
+Manager-519 (30389): starting worker PosteriorWorker-143
+Manager-518 (30388): worker PosteriorWorker-136 finished
+Manager-518 (30388): starting worker PosteriorWorker-144
+Manager-514 (30384): worker PosteriorWorker-137 finished
+Manager-514 (30384): starting worker PosteriorWorker-145
+Manager-520 (30390): worker PosteriorWorker-138 finished
+Manager-520 (30390): starting worker PosteriorWorker-146
+Manager-517 (30387): worker PosteriorWorker-139 finished
+Manager-517 (30387): starting worker PosteriorWorker-147
+Manager-513 (30383): worker PosteriorWorker-140 finished
+Manager-513 (30383): starting worker PosteriorWorker-148
+Manager-515 (30385): worker PosteriorWorker-142 finished
+Manager-515 (30385): starting worker PosteriorWorker-149
+Manager-518 (30388): worker PosteriorWorker-144 finished
+Manager-518 (30388): starting worker PosteriorWorker-150
+Manager-516 (30386): worker PosteriorWorker-141 finished
+Manager-516 (30386): starting worker PosteriorWorker-151
+Manager-519 (30389): worker PosteriorWorker-143 finished
+Manager-519 (30389): starting worker PosteriorWorker-152
+Manager-514 (30384): worker PosteriorWorker-145 finished
+Manager-514 (30384): starting worker PosteriorWorker-153
+Manager-520 (30390): worker PosteriorWorker-146 finished
+Manager-520 (30390): starting worker PosteriorWorker-154
+Manager-517 (30387): worker PosteriorWorker-147 finished
+Manager-517 (30387): starting worker PosteriorWorker-155
+Manager-513 (30383): worker PosteriorWorker-148 finished
+Manager-513 (30383): starting worker PosteriorWorker-156
+Manager-515 (30385): worker PosteriorWorker-149 finished
+Manager-515 (30385): starting worker PosteriorWorker-157
+Manager-518 (30388): worker PosteriorWorker-150 finished
+Manager-518 (30388): starting worker PosteriorWorker-158
+Manager-516 (30386): worker PosteriorWorker-151 finished
+Manager-516 (30386): starting worker PosteriorWorker-159
+Manager-519 (30389): worker PosteriorWorker-152 finished
+Manager-519 (30389): starting worker PosteriorWorker-160
+Manager-514 (30384): worker PosteriorWorker-153 finished
+Manager-514 (30384): starting worker PosteriorWorker-161
+Manager-520 (30390): worker PosteriorWorker-154 finished
+Manager-520 (30390): starting worker PosteriorWorker-162
+Manager-517 (30387): worker PosteriorWorker-155 finished
+Manager-517 (30387): starting worker PosteriorWorker-163
+Manager-513 (30383): worker PosteriorWorker-156 finished
+Manager-513 (30383): starting worker PosteriorWorker-164
+Manager-515 (30385): worker PosteriorWorker-157 finished
+Manager-515 (30385): starting worker PosteriorWorker-165
+Manager-518 (30388): worker PosteriorWorker-158 finished
+Manager-518 (30388): starting worker PosteriorWorker-166
+Manager-519 (30389): worker PosteriorWorker-160 finished
+Manager-519 (30389): starting worker PosteriorWorker-167
+Manager-516 (30386): worker PosteriorWorker-159 finished
+Manager-516 (30386): starting worker PosteriorWorker-168
+Manager-514 (30384): worker PosteriorWorker-161 finished
+Manager-514 (30384): starting worker PosteriorWorker-169
+Manager-520 (30390): worker PosteriorWorker-162 finished
+Manager-520 (30390): starting worker PosteriorWorker-170
+Manager-517 (30387): worker PosteriorWorker-163 finished
+Manager-517 (30387): starting worker PosteriorWorker-171
+Manager-513 (30383): worker PosteriorWorker-164 finished
+Manager-513 (30383): starting worker PosteriorWorker-172
+Manager-515 (30385): worker PosteriorWorker-165 finished
+Manager-515 (30385): starting worker PosteriorWorker-173
+Manager-518 (30388): worker PosteriorWorker-166 finished
+Manager-519 (30389): worker PosteriorWorker-167 finished
+Manager-518 (30388): starting worker PosteriorWorker-174
+Manager-519 (30389): starting worker PosteriorWorker-175
+Manager-516 (30386): worker PosteriorWorker-168 finished
+Manager-516 (30386): starting worker PosteriorWorker-176
+Manager-514 (30384): worker PosteriorWorker-169 finished
+Manager-514 (30384): starting worker PosteriorWorker-177
+Manager-520 (30390): worker PosteriorWorker-170 finished
+Manager-520 (30390): starting worker PosteriorWorker-178
+Manager-517 (30387): worker PosteriorWorker-171 finished
+Manager-517 (30387): starting worker PosteriorWorker-179
+Manager-513 (30383): worker PosteriorWorker-172 finished
+Manager-513 (30383): starting worker PosteriorWorker-180
+Manager-515 (30385): worker PosteriorWorker-173 finished
+Manager-515 (30385): starting worker PosteriorWorker-181
+Manager-518 (30388): worker PosteriorWorker-174 finished
+Manager-518 (30388): starting worker PosteriorWorker-182
+Manager-516 (30386): worker PosteriorWorker-176 finished
+Manager-516 (30386): starting worker PosteriorWorker-183
+Manager-519 (30389): worker PosteriorWorker-175 finished
+Manager-519 (30389): starting worker PosteriorWorker-184
+Manager-514 (30384): worker PosteriorWorker-177 finished
+Manager-514 (30384): starting worker PosteriorWorker-185
+Manager-520 (30390): worker PosteriorWorker-178 finished
+Manager-520 (30390): starting worker PosteriorWorker-186
+Manager-517 (30387): worker PosteriorWorker-179 finished
+Manager-517 (30387): starting worker PosteriorWorker-187
+Manager-513 (30383): worker PosteriorWorker-180 finished
+Manager-513 (30383): starting worker PosteriorWorker-188
+Manager-518 (30388): worker PosteriorWorker-182 finished
+Manager-518 (30388): starting worker PosteriorWorker-189
+Manager-515 (30385): worker PosteriorWorker-181 finished
+Manager-515 (30385): starting worker PosteriorWorker-190
+Manager-516 (30386): worker PosteriorWorker-183 finished
+Manager-519 (30389): worker PosteriorWorker-184 finished
+Manager-516 (30386): starting worker PosteriorWorker-191
+Manager-519 (30389): starting worker PosteriorWorker-192
+Manager-514 (30384): worker PosteriorWorker-185 finished
+Manager-514 (30384): starting worker PosteriorWorker-193
+Manager-520 (30390): worker PosteriorWorker-186 finished
+Manager-520 (30390): starting worker PosteriorWorker-194
+Manager-517 (30387): worker PosteriorWorker-187 finished
+Manager-517 (30387): starting worker PosteriorWorker-195
+Manager-513 (30383): worker PosteriorWorker-188 finished
+Manager-513 (30383): starting worker PosteriorWorker-196
+Manager-518 (30388): worker PosteriorWorker-189 finished
+Manager-518 (30388): starting worker PosteriorWorker-197
+Manager-519 (30389): worker PosteriorWorker-192 finished
+Manager-519 (30389): starting worker PosteriorWorker-198
+Manager-516 (30386): worker PosteriorWorker-191 finished
+Manager-516 (30386): starting worker PosteriorWorker-199
+Manager-515 (30385): worker PosteriorWorker-190 finished
+Manager-515 (30385): starting worker PosteriorWorker-200
+Manager-514 (30384): worker PosteriorWorker-193 finished
+Manager-514 (30384): starting worker PosteriorWorker-201
+Manager-520 (30390): worker PosteriorWorker-194 finished
+Manager-520 (30390): starting worker PosteriorWorker-202
+Manager-517 (30387): worker PosteriorWorker-195 finished
+Manager-517 (30387): starting worker PosteriorWorker-203
+Manager-513 (30383): worker PosteriorWorker-196 finished
+Manager-513 (30383): starting worker PosteriorWorker-204
+Manager-518 (30388): worker PosteriorWorker-197 finished
+Manager-518 (30388): starting worker PosteriorWorker-205
+Manager-519 (30389): worker PosteriorWorker-198 finished
+Manager-519 (30389): starting worker PosteriorWorker-206
+Manager-516 (30386): worker PosteriorWorker-199 finished
+Manager-516 (30386): starting worker PosteriorWorker-207
+Manager-515 (30385): worker PosteriorWorker-200 finished
+Manager-515 (30385): starting worker PosteriorWorker-208
+Manager-514 (30384): worker PosteriorWorker-201 finished
+Manager-514 (30384): starting worker PosteriorWorker-209
+Manager-520 (30390): worker PosteriorWorker-202 finished
+Manager-520 (30390): starting worker PosteriorWorker-210
+Manager-513 (30383): worker PosteriorWorker-204 finished
+Manager-513 (30383): starting worker PosteriorWorker-211
+Manager-517 (30387): worker PosteriorWorker-203 finished
+Manager-517 (30387): starting worker PosteriorWorker-212
+Manager-518 (30388): worker PosteriorWorker-205 finished
+Manager-518 (30388): starting worker PosteriorWorker-213
+Manager-519 (30389): worker PosteriorWorker-206 finished
+Manager-519 (30389): starting worker PosteriorWorker-214
+Manager-516 (30386): worker PosteriorWorker-207 finished
+Manager-516 (30386): starting worker PosteriorWorker-215
+Manager-514 (30384): worker PosteriorWorker-209 finished
+Manager-514 (30384): starting worker PosteriorWorker-216
+Manager-515 (30385): worker PosteriorWorker-208 finished
+Manager-515 (30385): starting worker PosteriorWorker-217
+Manager-520 (30390): worker PosteriorWorker-210 finished
+Manager-520 (30390): starting worker PosteriorWorker-218
+Manager-513 (30383): worker PosteriorWorker-211 finished
+Manager-513 (30383): starting worker PosteriorWorker-219
+Manager-517 (30387): worker PosteriorWorker-212 finished
+Manager-517 (30387): starting worker PosteriorWorker-220
+Manager-519 (30389): worker PosteriorWorker-214 finished
+Manager-519 (30389): starting worker PosteriorWorker-221
+Manager-516 (30386): worker PosteriorWorker-215 finished
+Manager-516 (30386): starting worker PosteriorWorker-222
+Manager-518 (30388): worker PosteriorWorker-213 finished
+Manager-518 (30388): starting worker PosteriorWorker-223
+Manager-514 (30384): worker PosteriorWorker-216 finished
+Manager-514 (30384): starting worker PosteriorWorker-224
+Manager-515 (30385): worker PosteriorWorker-217 finished
+Manager-515 (30385): starting worker PosteriorWorker-225
+Manager-520 (30390): worker PosteriorWorker-218 finished
+Manager-520 (30390): starting worker PosteriorWorker-226
+Manager-513 (30383): worker PosteriorWorker-219 finished
+Manager-513 (30383): starting worker PosteriorWorker-227
+Manager-517 (30387): worker PosteriorWorker-220 finished
+Manager-517 (30387): starting worker PosteriorWorker-228
+Manager-518 (30388): worker PosteriorWorker-223 finished
+Manager-518 (30388): starting worker PosteriorWorker-229
+Manager-516 (30386): worker PosteriorWorker-222 finished
+Manager-516 (30386): starting worker PosteriorWorker-230
+Manager-519 (30389): worker PosteriorWorker-221 finished
+Manager-519 (30389): starting worker PosteriorWorker-231
+Manager-514 (30384): worker PosteriorWorker-224 finished
+Manager-514 (30384): starting worker PosteriorWorker-232
+Manager-515 (30385): worker PosteriorWorker-225 finished
+Manager-515 (30385): starting worker PosteriorWorker-233
+Manager-520 (30390): worker PosteriorWorker-226 finished
+Manager-520 (30390): starting worker PosteriorWorker-234
+Manager-513 (30383): worker PosteriorWorker-227 finished
+Manager-513 (30383): starting worker PosteriorWorker-235
+Manager-517 (30387): worker PosteriorWorker-228 finished
+Manager-517 (30387): starting worker PosteriorWorker-236
+Manager-518 (30388): worker PosteriorWorker-229 finished
+Manager-518 (30388): starting worker PosteriorWorker-237
+Manager-516 (30386): worker PosteriorWorker-230 finished
+Manager-516 (30386): starting worker PosteriorWorker-238
+Manager-519 (30389): worker PosteriorWorker-231 finished
+Manager-519 (30389): starting worker PosteriorWorker-239
+Manager-514 (30384): worker PosteriorWorker-232 finished
+Manager-514 (30384): starting worker PosteriorWorker-240
+Manager-515 (30385): worker PosteriorWorker-233 finished
+Manager-515 (30385): starting worker PosteriorWorker-241
+Manager-520 (30390): worker PosteriorWorker-234 finished
+Manager-520 (30390): starting worker PosteriorWorker-242
+Manager-516 (30386): worker PosteriorWorker-238 finished
+Manager-516 (30386): starting worker PosteriorWorker-243
+Manager-517 (30387): worker PosteriorWorker-236 finished
+Manager-517 (30387): starting worker PosteriorWorker-244
+Manager-513 (30383): worker PosteriorWorker-235 finished
+Manager-513 (30383): starting worker PosteriorWorker-245
+Manager-514 (30384): worker PosteriorWorker-240 finished
+Manager-514 (30384): starting worker PosteriorWorker-246
+Manager-518 (30388): worker PosteriorWorker-237 finished
+Manager-518 (30388): starting worker PosteriorWorker-247
+Manager-519 (30389): worker PosteriorWorker-239 finished
+Manager-519 (30389): starting worker PosteriorWorker-248
+Manager-520 (30390): worker PosteriorWorker-242 finished
+Manager-520 (30390): starting worker PosteriorWorker-249
+Manager-515 (30385): worker PosteriorWorker-241 finished
+Manager-515 (30385): starting worker PosteriorWorker-250
+Manager-516 (30386): worker PosteriorWorker-243 finished
+Manager-516 (30386): starting worker PosteriorWorker-251
+Manager-513 (30383): worker PosteriorWorker-245 finished
+Manager-513 (30383): starting worker PosteriorWorker-252
+Manager-517 (30387): worker PosteriorWorker-244 finished
+Manager-517 (30387): starting worker PosteriorWorker-253
+Manager-514 (30384): worker PosteriorWorker-246 finished
+Manager-514 (30384): starting worker PosteriorWorker-254
+Manager-518 (30388): worker PosteriorWorker-247 finished
+Manager-518 (30388): starting worker PosteriorWorker-255
+Manager-519 (30389): worker PosteriorWorker-248 finished
+Manager-519 (30389): starting worker PosteriorWorker-256
+Manager-515 (30385): worker PosteriorWorker-250 finished
+Manager-515 (30385): starting worker PosteriorWorker-257
+Manager-520 (30390): worker PosteriorWorker-249 finished
+Manager-520 (30390): starting worker PosteriorWorker-258
+Manager-516 (30386): worker PosteriorWorker-251 finished
+Manager-516 (30386): starting worker PosteriorWorker-259
+Manager-517 (30387): worker PosteriorWorker-253 finished
+Manager-517 (30387): starting worker PosteriorWorker-260
+Manager-513 (30383): worker PosteriorWorker-252 finished
+Manager-513 (30383): starting worker PosteriorWorker-261
+Manager-514 (30384): worker PosteriorWorker-254 finished
+Manager-514 (30384): starting worker PosteriorWorker-262
+Manager-518 (30388): worker PosteriorWorker-255 finished
+Manager-518 (30388): starting worker PosteriorWorker-263
+Manager-519 (30389): worker PosteriorWorker-256 finished
+Manager-519 (30389): starting worker PosteriorWorker-264
+Manager-515 (30385): worker PosteriorWorker-257 finished
+Manager-515 (30385): starting worker PosteriorWorker-265
+Manager-520 (30390): worker PosteriorWorker-258 finished
+Manager-520 (30390): starting worker PosteriorWorker-266
+Manager-513 (30383): worker PosteriorWorker-261 finished
+Manager-513 (30383): starting worker PosteriorWorker-267
+Manager-517 (30387): worker PosteriorWorker-260 finished
+Manager-517 (30387): starting worker PosteriorWorker-268
+Manager-516 (30386): worker PosteriorWorker-259 finished
+Manager-516 (30386): starting worker PosteriorWorker-269
+Manager-518 (30388): worker PosteriorWorker-263 finished
+Manager-518 (30388): starting worker PosteriorWorker-270
+Manager-514 (30384): worker PosteriorWorker-262 finished
+Manager-514 (30384): starting worker PosteriorWorker-271
+Manager-519 (30389): worker PosteriorWorker-264 finished
+Manager-519 (30389): starting worker PosteriorWorker-272
+Manager-515 (30385): worker PosteriorWorker-265 finished
+Manager-515 (30385): starting worker PosteriorWorker-273
+Manager-520 (30390): worker PosteriorWorker-266 finished
+Manager-520 (30390): starting worker PosteriorWorker-274
+Manager-513 (30383): worker PosteriorWorker-267 finished
+Manager-513 (30383): starting worker PosteriorWorker-275
+Manager-517 (30387): worker PosteriorWorker-268 finished
+Manager-517 (30387): starting worker PosteriorWorker-276
+Manager-518 (30388): worker PosteriorWorker-270 finished
+Manager-518 (30388): starting worker PosteriorWorker-277
+Manager-516 (30386): worker PosteriorWorker-269 finished
+Manager-516 (30386): starting worker PosteriorWorker-278
+Manager-519 (30389): worker PosteriorWorker-272 finished
+Manager-519 (30389): starting worker PosteriorWorker-279
+Manager-514 (30384): worker PosteriorWorker-271 finished
+Manager-514 (30384): starting worker PosteriorWorker-280
+Manager-515 (30385): worker PosteriorWorker-273 finished
+Manager-515 (30385): starting worker PosteriorWorker-281
+Manager-520 (30390): worker PosteriorWorker-274 finished
+Manager-520 (30390): starting worker PosteriorWorker-282
+Manager-513 (30383): worker PosteriorWorker-275 finished
+Manager-513 (30383): starting worker PosteriorWorker-283
+Manager-517 (30387): worker PosteriorWorker-276 finished
+Manager-517 (30387): starting worker PosteriorWorker-284
+Manager-519 (30389): worker PosteriorWorker-279 finished
+Manager-519 (30389): starting worker PosteriorWorker-285
+Manager-518 (30388): worker PosteriorWorker-277 finished
+Manager-518 (30388): starting worker PosteriorWorker-286
+Manager-514 (30384): worker PosteriorWorker-280 finished
+Manager-514 (30384): starting worker PosteriorWorker-287
+Manager-516 (30386): worker PosteriorWorker-278 finished
+Manager-516 (30386): starting worker PosteriorWorker-288
+Manager-515 (30385): worker PosteriorWorker-281 finished
+Manager-515 (30385): starting worker PosteriorWorker-289
+Manager-520 (30390): worker PosteriorWorker-282 finished
+Manager-520 (30390): starting worker PosteriorWorker-290
+Manager-513 (30383): worker PosteriorWorker-283 finished
+Manager-513 (30383): starting worker PosteriorWorker-291
+Manager-517 (30387): worker PosteriorWorker-284 finished
+Manager-517 (30387): starting worker PosteriorWorker-292
+Manager-514 (30384): worker PosteriorWorker-287 finished
+Manager-514 (30384): starting worker PosteriorWorker-293
+Manager-519 (30389): worker PosteriorWorker-285 finished
+Manager-519 (30389): starting worker PosteriorWorker-294
+Manager-518 (30388): worker PosteriorWorker-286 finished
+Manager-518 (30388): starting worker PosteriorWorker-295
+Manager-516 (30386): worker PosteriorWorker-288 finished
+Manager-516 (30386): starting worker PosteriorWorker-296
+Manager-515 (30385): worker PosteriorWorker-289 finished
+Manager-515 (30385): starting worker PosteriorWorker-297
+Manager-520 (30390): worker PosteriorWorker-290 finished
+Manager-520 (30390): starting worker PosteriorWorker-298
+Manager-513 (30383): worker PosteriorWorker-291 finished
+Manager-513 (30383): starting worker PosteriorWorker-299
+Manager-517 (30387): worker PosteriorWorker-292 finished
+Manager-517 (30387): starting worker PosteriorWorker-300
+Manager-514 (30384): worker PosteriorWorker-293 finished
+Manager-514 (30384): starting worker PosteriorWorker-301
+Manager-519 (30389): worker PosteriorWorker-294 finished
+Manager-519 (30389): starting worker PosteriorWorker-302
+Manager-518 (30388): worker PosteriorWorker-295 finished
+Manager-518 (30388): starting worker PosteriorWorker-303
+Manager-516 (30386): worker PosteriorWorker-296 finished
+Manager-516 (30386): starting worker PosteriorWorker-304
+Manager-515 (30385): worker PosteriorWorker-297 finished
+Manager-515 (30385): starting worker PosteriorWorker-305
+Manager-520 (30390): worker PosteriorWorker-298 finished
+Manager-520 (30390): starting worker PosteriorWorker-306
+Manager-513 (30383): worker PosteriorWorker-299 finished
+Manager-513 (30383): starting worker PosteriorWorker-307
+Manager-517 (30387): worker PosteriorWorker-300 finished
+Manager-517 (30387): starting worker PosteriorWorker-308
+Manager-514 (30384): worker PosteriorWorker-301 finished
+Manager-514 (30384): starting worker PosteriorWorker-309
+Manager-518 (30388): worker PosteriorWorker-303 finished
+Manager-518 (30388): starting worker PosteriorWorker-310
+Manager-516 (30386): worker PosteriorWorker-304 finished
+Manager-516 (30386): starting worker PosteriorWorker-311
+Manager-519 (30389): worker PosteriorWorker-302 finished
+Manager-519 (30389): starting worker PosteriorWorker-312
+Manager-515 (30385): worker PosteriorWorker-305 finished
+Manager-515 (30385): starting worker PosteriorWorker-313
+Manager-520 (30390): worker PosteriorWorker-306 finished
+Manager-520 (30390): starting worker PosteriorWorker-314
+Manager-513 (30383): worker PosteriorWorker-307 finished
+Manager-513 (30383): starting worker PosteriorWorker-315
+Manager-517 (30387): worker PosteriorWorker-308 finished
+Manager-517 (30387): starting worker PosteriorWorker-316
+Manager-514 (30384): worker PosteriorWorker-309 finished
+Manager-514 (30384): starting worker PosteriorWorker-317
+Manager-518 (30388): worker PosteriorWorker-310 finished
+Manager-518 (30388): starting worker PosteriorWorker-318
+Manager-516 (30386): worker PosteriorWorker-311 finished
+Manager-516 (30386): starting worker PosteriorWorker-319
+Manager-519 (30389): worker PosteriorWorker-312 finished
+Manager-519 (30389): starting worker PosteriorWorker-320
+Manager-515 (30385): worker PosteriorWorker-313 finished
+Manager-515 (30385): starting worker PosteriorWorker-321
+Manager-520 (30390): worker PosteriorWorker-314 finished
+Manager-520 (30390): starting worker PosteriorWorker-322
+Manager-513 (30383): worker PosteriorWorker-315 finished
+Manager-513 (30383): starting worker PosteriorWorker-323
+Manager-517 (30387): worker PosteriorWorker-316 finished
+Manager-517 (30387): starting worker PosteriorWorker-324
+Manager-514 (30384): worker PosteriorWorker-317 finished
+Manager-514 (30384): starting worker PosteriorWorker-325
+Manager-518 (30388): worker PosteriorWorker-318 finished
+Manager-518 (30388): starting worker PosteriorWorker-326
+Manager-515 (30385): worker PosteriorWorker-321 finished
+Manager-515 (30385): starting worker PosteriorWorker-327
+Manager-519 (30389): worker PosteriorWorker-320 finished
+Manager-519 (30389): starting worker PosteriorWorker-328
+Manager-516 (30386): worker PosteriorWorker-319 finished
+Manager-516 (30386): starting worker PosteriorWorker-329
+Manager-520 (30390): worker PosteriorWorker-322 finished
+Manager-520 (30390): starting worker PosteriorWorker-330
+Manager-513 (30383): worker PosteriorWorker-323 finished
+Manager-513 (30383): starting worker PosteriorWorker-331
+Manager-517 (30387): worker PosteriorWorker-324 finished
+Manager-517 (30387): starting worker PosteriorWorker-332
+Manager-514 (30384): worker PosteriorWorker-325 finished
+Manager-514 (30384): starting worker PosteriorWorker-333
+Manager-518 (30388): worker PosteriorWorker-326 finished
+Manager-518 (30388): starting worker PosteriorWorker-334
+Manager-515 (30385): worker PosteriorWorker-327 finished
+Manager-515 (30385): starting worker PosteriorWorker-335
+Manager-519 (30389): worker PosteriorWorker-328 finished
+Manager-519 (30389): starting worker PosteriorWorker-336
+Manager-516 (30386): worker PosteriorWorker-329 finished
+Manager-516 (30386): starting worker PosteriorWorker-337
+Manager-513 (30383): worker PosteriorWorker-331 finished
+Manager-513 (30383): starting worker PosteriorWorker-338
+Manager-520 (30390): worker PosteriorWorker-330 finished
+Manager-520 (30390): starting worker PosteriorWorker-339
+Manager-517 (30387): worker PosteriorWorker-332 finished
+Manager-517 (30387): starting worker PosteriorWorker-340
+Manager-514 (30384): worker PosteriorWorker-333 finished
+Manager-514 (30384): starting worker PosteriorWorker-341
+Manager-518 (30388): worker PosteriorWorker-334 finished
+Manager-518 (30388): starting worker PosteriorWorker-342
+Manager-519 (30389): worker PosteriorWorker-336 finished
+Manager-519 (30389): starting worker PosteriorWorker-343
+Manager-515 (30385): worker PosteriorWorker-335 finished
+Manager-515 (30385): starting worker PosteriorWorker-344
+Manager-513 (30383): worker PosteriorWorker-338 finished
+Manager-513 (30383): starting worker PosteriorWorker-345
+Manager-516 (30386): worker PosteriorWorker-337 finished
+Manager-516 (30386): starting worker PosteriorWorker-346
+Manager-520 (30390): worker PosteriorWorker-339 finished
+Manager-520 (30390): starting worker PosteriorWorker-347
+Manager-517 (30387): worker PosteriorWorker-340 finished
+Manager-517 (30387): starting worker PosteriorWorker-348
+Manager-518 (30388): worker PosteriorWorker-342 finished
+Manager-518 (30388): starting worker PosteriorWorker-349
+Manager-514 (30384): worker PosteriorWorker-341 finished
+Manager-514 (30384): starting worker PosteriorWorker-350
+Manager-519 (30389): worker PosteriorWorker-343 finished
+Manager-519 (30389): starting worker PosteriorWorker-351
+Manager-515 (30385): worker PosteriorWorker-344 finished
+Manager-515 (30385): starting worker PosteriorWorker-352
+Manager-513 (30383): worker PosteriorWorker-345 finished
+Manager-513 (30383): starting worker PosteriorWorker-353
+Manager-516 (30386): worker PosteriorWorker-346 finished
+Manager-516 (30386): starting worker PosteriorWorker-354
+Manager-520 (30390): worker PosteriorWorker-347 finished
+Manager-520 (30390): starting worker PosteriorWorker-355
+Manager-517 (30387): worker PosteriorWorker-348 finished
+Manager-517 (30387): starting worker PosteriorWorker-356
+Manager-518 (30388): worker PosteriorWorker-349 finished
+Manager-518 (30388): starting worker PosteriorWorker-357
+Manager-514 (30384): worker PosteriorWorker-350 finished
+Manager-514 (30384): starting worker PosteriorWorker-358
+Manager-519 (30389): worker PosteriorWorker-351 finished
+Manager-519 (30389): starting worker PosteriorWorker-359
+Manager-515 (30385): worker PosteriorWorker-352 finished
+Manager-515 (30385): starting worker PosteriorWorker-360
+Manager-513 (30383): worker PosteriorWorker-353 finished
+Manager-513 (30383): starting worker PosteriorWorker-361
+Manager-516 (30386): worker PosteriorWorker-354 finished
+Manager-516 (30386): starting worker PosteriorWorker-362
+Manager-520 (30390): worker PosteriorWorker-355 finished
+Manager-520 (30390): starting worker PosteriorWorker-363
+Manager-517 (30387): worker PosteriorWorker-356 finished
+Manager-517 (30387): starting worker PosteriorWorker-364
+Manager-518 (30388): worker PosteriorWorker-357 finished
+Manager-518 (30388): starting worker PosteriorWorker-365
+Manager-514 (30384): worker PosteriorWorker-358 finished
+Manager-514 (30384): starting worker PosteriorWorker-366
+Manager-519 (30389): worker PosteriorWorker-359 finished
+Manager-519 (30389): starting worker PosteriorWorker-367
+Manager-516 (30386): worker PosteriorWorker-362 finished
+Manager-516 (30386): starting worker PosteriorWorker-368
+Manager-513 (30383): worker PosteriorWorker-361 finished
+Manager-513 (30383): starting worker PosteriorWorker-369
+Manager-515 (30385): worker PosteriorWorker-360 finished
+Manager-515 (30385): starting worker PosteriorWorker-370
+Manager-520 (30390): worker PosteriorWorker-363 finished
+Manager-520 (30390): starting worker PosteriorWorker-371
+Manager-517 (30387): worker PosteriorWorker-364 finished
+Manager-517 (30387): starting worker PosteriorWorker-372
+Manager-518 (30388): worker PosteriorWorker-365 finished
+Manager-518 (30388): starting worker PosteriorWorker-373
+Manager-514 (30384): worker PosteriorWorker-366 finished
+Manager-514 (30384): starting worker PosteriorWorker-374
+Manager-519 (30389): worker PosteriorWorker-367 finished
+Manager-519 (30389): starting worker PosteriorWorker-375
+Manager-516 (30386): worker PosteriorWorker-368 finished
+Manager-516 (30386): starting worker PosteriorWorker-376
+Manager-515 (30385): worker PosteriorWorker-370 finished
+Manager-515 (30385): starting worker PosteriorWorker-377
+Manager-517 (30387): worker PosteriorWorker-372 finished
+Manager-517 (30387): starting worker PosteriorWorker-378
+Manager-513 (30383): worker PosteriorWorker-369 finished
+Manager-513 (30383): starting worker PosteriorWorker-379
+Manager-520 (30390): worker PosteriorWorker-371 finished
+Manager-520 (30390): starting worker PosteriorWorker-380
+Manager-519 (30389): worker PosteriorWorker-375 finished
+Manager-519 (30389): starting worker PosteriorWorker-381
+Manager-518 (30388): worker PosteriorWorker-373 finished
+Manager-518 (30388): starting worker PosteriorWorker-382
+Manager-514 (30384): worker PosteriorWorker-374 finished
+Manager-514 (30384): starting worker PosteriorWorker-383
+Manager-516 (30386): worker PosteriorWorker-376 finished
+Manager-516 (30386): starting worker PosteriorWorker-384
+Manager-515 (30385): worker PosteriorWorker-377 finished
+Manager-515 (30385): starting worker PosteriorWorker-385
+Manager-517 (30387): worker PosteriorWorker-378 finished
+Manager-517 (30387): starting worker PosteriorWorker-386
+Manager-513 (30383): worker PosteriorWorker-379 finished
+Manager-513 (30383): starting worker PosteriorWorker-387
+Manager-520 (30390): worker PosteriorWorker-380 finished
+Manager-520 (30390): starting worker PosteriorWorker-388
+Manager-519 (30389): worker PosteriorWorker-381 finished
+Manager-519 (30389): starting worker PosteriorWorker-389
+Manager-518 (30388): worker PosteriorWorker-382 finished
+Manager-518 (30388): starting worker PosteriorWorker-390
+Manager-514 (30384): worker PosteriorWorker-383 finished
+Manager-514 (30384): starting worker PosteriorWorker-391
+Manager-516 (30386): worker PosteriorWorker-384 finished
+Manager-516 (30386): starting worker PosteriorWorker-392
+Manager-515 (30385): worker PosteriorWorker-385 finished
+Manager-515 (30385): starting worker PosteriorWorker-393
+Manager-517 (30387): worker PosteriorWorker-386 finished
+Manager-517 (30387): starting worker PosteriorWorker-394
+Manager-513 (30383): worker PosteriorWorker-387 finished
+Manager-513 (30383): starting worker PosteriorWorker-395
+Manager-520 (30390): worker PosteriorWorker-388 finished
+Manager-520 (30390): starting worker PosteriorWorker-396
+Manager-519 (30389): worker PosteriorWorker-389 finished
+Manager-519 (30389): starting worker PosteriorWorker-397
+Manager-518 (30388): worker PosteriorWorker-390 finished
+Manager-518 (30388): starting worker PosteriorWorker-398
+Manager-516 (30386): worker PosteriorWorker-392 finished
+Manager-516 (30386): starting worker PosteriorWorker-399
+Manager-514 (30384): worker PosteriorWorker-391 finished
+Manager-514 (30384): starting worker PosteriorWorker-400
+Manager-515 (30385): worker PosteriorWorker-393 finished
+Manager-515 (30385): starting worker PosteriorWorker-401
+Manager-517 (30387): worker PosteriorWorker-394 finished
+Manager-517 (30387): starting worker PosteriorWorker-402
+Manager-513 (30383): worker PosteriorWorker-395 finished
+Manager-513 (30383): starting worker PosteriorWorker-403
+Manager-520 (30390): worker PosteriorWorker-396 finished
+Manager-520 (30390): starting worker PosteriorWorker-404
+Manager-519 (30389): worker PosteriorWorker-397 finished
+Manager-519 (30389): starting worker PosteriorWorker-405
+Manager-514 (30384): worker PosteriorWorker-400 finished
+Manager-514 (30384): starting worker PosteriorWorker-406
+Manager-518 (30388): worker PosteriorWorker-398 finished
+Manager-518 (30388): starting worker PosteriorWorker-407
+Manager-515 (30385): worker PosteriorWorker-401 finished
+Manager-515 (30385): starting worker PosteriorWorker-408
+Manager-516 (30386): worker PosteriorWorker-399 finished
+Manager-516 (30386): starting worker PosteriorWorker-409
+Manager-517 (30387): worker PosteriorWorker-402 finished
+Manager-517 (30387): starting worker PosteriorWorker-410
+Manager-513 (30383): worker PosteriorWorker-403 finished
+Manager-513 (30383): starting worker PosteriorWorker-411
+Manager-520 (30390): worker PosteriorWorker-404 finished
+Manager-520 (30390): starting worker PosteriorWorker-412
+Manager-519 (30389): worker PosteriorWorker-405 finished
+Manager-519 (30389): starting worker PosteriorWorker-413
+Manager-514 (30384): worker PosteriorWorker-406 finished
+Manager-514 (30384): starting worker PosteriorWorker-414
+Manager-516 (30386): worker PosteriorWorker-409 finished
+Manager-516 (30386): starting worker PosteriorWorker-415
+Manager-515 (30385): worker PosteriorWorker-408 finished
+Manager-515 (30385): starting worker PosteriorWorker-416
+Manager-518 (30388): worker PosteriorWorker-407 finished
+Manager-518 (30388): starting worker PosteriorWorker-417
+Manager-517 (30387): worker PosteriorWorker-410 finished
+Manager-517 (30387): starting worker PosteriorWorker-418
+Manager-513 (30383): worker PosteriorWorker-411 finished
+Manager-513 (30383): starting worker PosteriorWorker-419
+Manager-520 (30390): worker PosteriorWorker-412 finished
+Manager-520 (30390): starting worker PosteriorWorker-420
+Manager-519 (30389): worker PosteriorWorker-413 finished
+Manager-519 (30389): starting worker PosteriorWorker-421
+Manager-514 (30384): worker PosteriorWorker-414 finished
+Manager-514 (30384): starting worker PosteriorWorker-422
+Manager-518 (30388): worker PosteriorWorker-417 finished
+Manager-518 (30388): starting worker PosteriorWorker-423
+Manager-515 (30385): worker PosteriorWorker-416 finished
+Manager-515 (30385): starting worker PosteriorWorker-424
+Manager-516 (30386): worker PosteriorWorker-415 finished
+Manager-516 (30386): starting worker PosteriorWorker-425
+Manager-513 (30383): worker PosteriorWorker-419 finished
+Manager-513 (30383): starting worker PosteriorWorker-426
+Manager-517 (30387): worker PosteriorWorker-418 finished
+Manager-517 (30387): starting worker PosteriorWorker-427
+Manager-520 (30390): worker PosteriorWorker-420 finished
+Manager-520 (30390): starting worker PosteriorWorker-428
+Manager-519 (30389): worker PosteriorWorker-421 finished
+Manager-519 (30389): starting worker PosteriorWorker-429
+Manager-514 (30384): worker PosteriorWorker-422 finished
+Manager-514 (30384): starting worker PosteriorWorker-430
+Manager-515 (30385): worker PosteriorWorker-424 finished
+Manager-515 (30385): starting worker PosteriorWorker-431
+Manager-516 (30386): worker PosteriorWorker-425 finished
+Manager-516 (30386): starting worker PosteriorWorker-432
+Manager-518 (30388): worker PosteriorWorker-423 finished
+Manager-518 (30388): starting worker PosteriorWorker-433
+Manager-513 (30383): worker PosteriorWorker-426 finished
+Manager-513 (30383): starting worker PosteriorWorker-434
+Manager-517 (30387): worker PosteriorWorker-427 finished
+Manager-517 (30387): starting worker PosteriorWorker-435
+Manager-520 (30390): worker PosteriorWorker-428 finished
+Manager-520 (30390): starting worker PosteriorWorker-436
+Manager-519 (30389): worker PosteriorWorker-429 finished
+Manager-519 (30389): starting worker PosteriorWorker-437
+Manager-514 (30384): worker PosteriorWorker-430 finished
+Manager-514 (30384): starting worker PosteriorWorker-438
+Manager-515 (30385): worker PosteriorWorker-431 finished
+Manager-515 (30385): starting worker PosteriorWorker-439
+Manager-516 (30386): worker PosteriorWorker-432 finished
+Manager-516 (30386): starting worker PosteriorWorker-440
+Manager-518 (30388): worker PosteriorWorker-433 finished
+Manager-518 (30388): starting worker PosteriorWorker-441
+Manager-513 (30383): worker PosteriorWorker-434 finished
+Manager-513 (30383): starting worker PosteriorWorker-442
+Manager-517 (30387): worker PosteriorWorker-435 finished
+Manager-517 (30387): starting worker PosteriorWorker-443
+Manager-520 (30390): worker PosteriorWorker-436 finished
+Manager-520 (30390): starting worker PosteriorWorker-444
+Manager-519 (30389): worker PosteriorWorker-437 finished
+Manager-519 (30389): starting worker PosteriorWorker-445
+Manager-514 (30384): worker PosteriorWorker-438 finished
+Manager-514 (30384): starting worker PosteriorWorker-446
+Manager-516 (30386): worker PosteriorWorker-440 finished
+Manager-516 (30386): starting worker PosteriorWorker-447
+Manager-515 (30385): worker PosteriorWorker-439 finished
+Manager-515 (30385): starting worker PosteriorWorker-448
+Manager-513 (30383): worker PosteriorWorker-442 finished
+Manager-513 (30383): starting worker PosteriorWorker-449
+Manager-518 (30388): worker PosteriorWorker-441 finished
+Manager-518 (30388): starting worker PosteriorWorker-450
+Manager-517 (30387): worker PosteriorWorker-443 finished
+Manager-517 (30387): starting worker PosteriorWorker-451
+Manager-520 (30390): worker PosteriorWorker-444 finished
+Manager-520 (30390): starting worker PosteriorWorker-452
+Manager-519 (30389): worker PosteriorWorker-445 finished
+Manager-519 (30389): starting worker PosteriorWorker-453
+Manager-514 (30384): worker PosteriorWorker-446 finished
+Manager-514 (30384): starting worker PosteriorWorker-454
+Manager-516 (30386): worker PosteriorWorker-447 finished
+Manager-516 (30386): starting worker PosteriorWorker-455
+Manager-515 (30385): worker PosteriorWorker-448 finished
+Manager-515 (30385): starting worker PosteriorWorker-456
+Manager-513 (30383): worker PosteriorWorker-449 finished
+Manager-513 (30383): starting worker PosteriorWorker-457
+Manager-518 (30388): worker PosteriorWorker-450 finished
+Manager-518 (30388): starting worker PosteriorWorker-458
+Manager-517 (30387): worker PosteriorWorker-451 finished
+Manager-517 (30387): starting worker PosteriorWorker-459
+Manager-520 (30390): worker PosteriorWorker-452 finished
+Manager-520 (30390): starting worker PosteriorWorker-460
+Manager-519 (30389): worker PosteriorWorker-453 finished
+Manager-519 (30389): starting worker PosteriorWorker-461
+Manager-516 (30386): worker PosteriorWorker-455 finished
+Manager-516 (30386): starting worker PosteriorWorker-462
+Manager-515 (30385): worker PosteriorWorker-456 finished
+Manager-515 (30385): starting worker PosteriorWorker-463
+Manager-514 (30384): worker PosteriorWorker-454 finished
+Manager-514 (30384): starting worker PosteriorWorker-464
+Manager-513 (30383): worker PosteriorWorker-457 finished
+Manager-513 (30383): starting worker PosteriorWorker-465
+Manager-518 (30388): worker PosteriorWorker-458 finished
+Manager-518 (30388): starting worker PosteriorWorker-466
+Manager-520 (30390): worker PosteriorWorker-460 finished
+Manager-520 (30390): starting worker PosteriorWorker-467
+Manager-517 (30387): worker PosteriorWorker-459 finished
+Manager-517 (30387): starting worker PosteriorWorker-468
+Manager-519 (30389): worker PosteriorWorker-461 finished
+Manager-519 (30389): starting worker PosteriorWorker-469
+Manager-516 (30386): worker PosteriorWorker-462 finished
+Manager-516 (30386): starting worker PosteriorWorker-470
+Manager-515 (30385): worker PosteriorWorker-463 finished
+Manager-514 (30384): worker PosteriorWorker-464 finished
+Manager-515 (30385): starting worker PosteriorWorker-471
+Manager-514 (30384): starting worker PosteriorWorker-472
+Manager-513 (30383): worker PosteriorWorker-465 finished
+Manager-513 (30383): starting worker PosteriorWorker-473
+Manager-518 (30388): worker PosteriorWorker-466 finished
+Manager-518 (30388): starting worker PosteriorWorker-474
+Manager-520 (30390): worker PosteriorWorker-467 finished
+Manager-520 (30390): starting worker PosteriorWorker-475
+Manager-517 (30387): worker PosteriorWorker-468 finished
+Manager-517 (30387): starting worker PosteriorWorker-476
+Manager-519 (30389): worker PosteriorWorker-469 finished
+Manager-519 (30389): starting worker PosteriorWorker-477
+Manager-516 (30386): worker PosteriorWorker-470 finished
+Manager-516 (30386): starting worker PosteriorWorker-478
+Manager-513 (30383): worker PosteriorWorker-473 finished
+Manager-513 (30383): starting worker PosteriorWorker-479
+Manager-515 (30385): worker PosteriorWorker-471 finished
+Manager-515 (30385): starting worker PosteriorWorker-480
+Manager-518 (30388): worker PosteriorWorker-474 finished
+Manager-518 (30388): starting worker PosteriorWorker-481
+Manager-514 (30384): worker PosteriorWorker-472 finished
+Manager-514 (30384): starting worker PosteriorWorker-482
+Manager-520 (30390): worker PosteriorWorker-475 finished
+Manager-520 (30390): starting worker PosteriorWorker-483
+Manager-517 (30387): worker PosteriorWorker-476 finished
+Manager-517 (30387): starting worker PosteriorWorker-484
+Manager-519 (30389): worker PosteriorWorker-477 finished
+Manager-519 (30389): starting worker PosteriorWorker-485
+Manager-516 (30386): worker PosteriorWorker-478 finished
+Manager-516 (30386): starting worker PosteriorWorker-486
+Manager-515 (30385): worker PosteriorWorker-480 finished
+Manager-515 (30385): starting worker PosteriorWorker-487
+Manager-513 (30383): worker PosteriorWorker-479 finished
+Manager-513 (30383): starting worker PosteriorWorker-488
+Manager-518 (30388): worker PosteriorWorker-481 finished
+Manager-518 (30388): starting worker PosteriorWorker-489
+Manager-514 (30384): worker PosteriorWorker-482 finished
+Manager-514 (30384): starting worker PosteriorWorker-490
+Manager-520 (30390): worker PosteriorWorker-483 finished
+Manager-520 (30390): starting worker PosteriorWorker-491
+Manager-517 (30387): worker PosteriorWorker-484 finished
+Manager-517 (30387): starting worker PosteriorWorker-492
+Manager-519 (30389): worker PosteriorWorker-485 finished
+Manager-519 (30389): starting worker PosteriorWorker-493
+Manager-513 (30383): worker PosteriorWorker-488 finished
+Manager-513 (30383): starting worker PosteriorWorker-494
+Manager-515 (30385): worker PosteriorWorker-487 finished
+Manager-515 (30385): starting worker PosteriorWorker-495
+Manager-514 (30384): worker PosteriorWorker-490 finished
+Manager-514 (30384): starting worker PosteriorWorker-496
+Manager-516 (30386): worker PosteriorWorker-486 finished
+Manager-516 (30386): starting worker PosteriorWorker-497
+Manager-518 (30388): worker PosteriorWorker-489 finished
+Manager-518 (30388): starting worker PosteriorWorker-498
+Manager-520 (30390): worker PosteriorWorker-491 finished
+Manager-520 (30390): starting worker PosteriorWorker-499
+Manager-517 (30387): worker PosteriorWorker-492 finished
+Manager-517 (30387): starting worker PosteriorWorker-500
+Manager-513 (30383): worker PosteriorWorker-494 finished
+Manager-519 (30389): worker PosteriorWorker-493 finished
+Manager-514 (30384): worker PosteriorWorker-496 finished
+Manager-518 (30388): worker PosteriorWorker-498 finished
+Manager-515 (30385): worker PosteriorWorker-495 finished
+Manager-516 (30386): worker PosteriorWorker-497 finished
+Manager-513 (30383): work queue is empty
+Manager-519 (30389): work queue is empty
+Manager-514 (30384): work queue is empty
+Manager-520 (30390): worker PosteriorWorker-499 finished
+Manager-518 (30388): work queue is empty
+Manager-517 (30387): worker PosteriorWorker-500 finished
+Manager-515 (30385): work queue is empty
+Manager-516 (30386): work queue is empty
+Manager-520 (30390): work queue is empty
+Manager-517 (30387): work queue is empty
+Number of samples processed:
+    500000
+Done!
+	[[run_stats]]
+		start_time = 2018-06-30 22:07:28.602045
+		stop_time = 2018-06-30 22:20:49.424009
+		total_duration = 0:13:20.821964

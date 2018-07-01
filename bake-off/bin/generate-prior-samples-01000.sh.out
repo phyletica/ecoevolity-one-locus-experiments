@@ -1,0 +1,281 @@
+Batch size is 6250 prior samples.
+Simulating summary statistics from observed configs...
+Manager-1 (7557): starting worker MsBayesWorker-1
+Manager-2 (7560): work queue is empty
+Manager-3 (7563): work queue is empty
+Manager-4 (7566): work queue is empty
+Manager-5 (7570): work queue is empty
+Manager-6 (7573): work queue is empty
+Manager-7 (7576): work queue is empty
+Manager-8 (7580): work queue is empty
+Manager-1 (7557): worker MsBayesWorker-1 finished
+Manager-1 (7557): work queue is empty
+Generating prior samples only...
+Running prior summary workers...
+Manager-9 (7732): starting worker MsBayesWorker-2
+Manager-10 (7734): starting worker MsBayesWorker-3
+Manager-11 (7738): starting worker MsBayesWorker-4
+Manager-12 (7742): starting worker MsBayesWorker-5
+Manager-13 (7744): starting worker MsBayesWorker-6
+Manager-14 (7748): starting worker MsBayesWorker-7
+Manager-15 (7753): starting worker MsBayesWorker-8
+Manager-16 (7758): starting worker MsBayesWorker-9
+Manager-12 (7742): worker MsBayesWorker-5 finished
+Manager-12 (7742): starting worker MsBayesWorker-10
+Manager-14 (7748): worker MsBayesWorker-7 finished
+Manager-14 (7748): starting worker MsBayesWorker-11
+Manager-15 (7753): worker MsBayesWorker-8 finished
+Manager-15 (7753): starting worker MsBayesWorker-12
+Manager-9 (7732): worker MsBayesWorker-2 finished
+Manager-9 (7732): starting worker MsBayesWorker-13
+Manager-10 (7734): worker MsBayesWorker-3 finished
+Manager-10 (7734): starting worker MsBayesWorker-14
+Manager-11 (7738): worker MsBayesWorker-4 finished
+Manager-11 (7738): starting worker MsBayesWorker-15
+Manager-13 (7744): worker MsBayesWorker-6 finished
+Manager-13 (7744): starting worker MsBayesWorker-16
+Manager-16 (7758): worker MsBayesWorker-9 finished
+Manager-16 (7758): starting worker MsBayesWorker-17
+Manager-9 (7732): worker MsBayesWorker-13 finished
+Manager-9 (7732): work queue is empty
+Manager-14 (7748): worker MsBayesWorker-11 finished
+Manager-15 (7753): worker MsBayesWorker-12 finished
+Manager-12 (7742): worker MsBayesWorker-10 finished
+Manager-14 (7748): work queue is empty
+Manager-15 (7753): work queue is empty
+Manager-12 (7742): work queue is empty
+Manager-10 (7734): worker MsBayesWorker-14 finished
+Manager-10 (7734): work queue is empty
+Manager-11 (7738): worker MsBayesWorker-15 finished
+Manager-11 (7738): work queue is empty
+Manager-13 (7744): worker MsBayesWorker-16 finished
+Manager-13 (7744): work queue is empty
+Manager-16 (7758): worker MsBayesWorker-17 finished
+Manager-16 (7758): work queue is empty
+Merging summaries...
+Manager-17 (29704): starting worker EuRejectSummaryMerger-1
+Manager-17 (29704): worker EuRejectSummaryMerger-1 finished
+Manager-18 (29706): work queue is empty
+Manager-19 (29709): work queue is empty
+Manager-20 (29714): work queue is empty
+Manager-21 (29716): work queue is empty
+Manager-22 (29720): work queue is empty
+Manager-23 (29728): work queue is empty
+Manager-24 (29730): work queue is empty
+Manager-17 (29704): work queue is empty
+Writing prior samples...
+Number of samples generated: 100000
+Number of samples summarized: 100000
+Running prior worker batch 1 of 8...
+Manager-25 (1972): starting worker MsBayesWorker-18
+Manager-26 (1978): starting worker MsBayesWorker-19
+Manager-27 (1980): starting worker MsBayesWorker-20
+Manager-28 (1983): starting worker MsBayesWorker-21
+Manager-29 (1984): starting worker MsBayesWorker-22
+Manager-30 (1988): starting worker MsBayesWorker-23
+Manager-31 (1991): starting worker MsBayesWorker-24
+Manager-32 (1997): starting worker MsBayesWorker-25
+Manager-31 (1991): worker MsBayesWorker-24 finished
+Manager-31 (1991): work queue is empty
+Manager-27 (1980): worker MsBayesWorker-20 finished
+Manager-25 (1972): worker MsBayesWorker-18 finished
+Manager-29 (1984): worker MsBayesWorker-22 finished
+Manager-27 (1980): work queue is empty
+Manager-30 (1988): worker MsBayesWorker-23 finished
+Manager-32 (1997): worker MsBayesWorker-25 finished
+Manager-25 (1972): work queue is empty
+Manager-28 (1983): worker MsBayesWorker-21 finished
+Manager-29 (1984): work queue is empty
+Manager-30 (1988): work queue is empty
+Manager-32 (1997): work queue is empty
+Manager-28 (1983): work queue is empty
+Manager-26 (1978): worker MsBayesWorker-19 finished
+Manager-26 (1978): work queue is empty
+Writing prior samples...
+Running prior worker batch 2 of 8...
+Manager-33 (29647): starting worker MsBayesWorker-26
+Manager-34 (29651): starting worker MsBayesWorker-27
+Manager-35 (29653): starting worker MsBayesWorker-28
+Manager-36 (29660): starting worker MsBayesWorker-29
+Manager-37 (29666): starting worker MsBayesWorker-30
+Manager-38 (29669): starting worker MsBayesWorker-31
+Manager-39 (29673): starting worker MsBayesWorker-32
+Manager-40 (29678): starting worker MsBayesWorker-33
+Manager-34 (29651): worker MsBayesWorker-27 finished
+Manager-34 (29651): work queue is empty
+Manager-35 (29653): worker MsBayesWorker-28 finished
+Manager-35 (29653): work queue is empty
+Manager-38 (29669): worker MsBayesWorker-31 finished
+Manager-36 (29660): worker MsBayesWorker-29 finished
+Manager-39 (29673): worker MsBayesWorker-32 finished
+Manager-36 (29660): work queue is empty
+Manager-38 (29669): work queue is empty
+Manager-39 (29673): work queue is empty
+Manager-33 (29647): worker MsBayesWorker-26 finished
+Manager-37 (29666): worker MsBayesWorker-30 finished
+Manager-33 (29647): work queue is empty
+Manager-37 (29666): work queue is empty
+Manager-40 (29678): worker MsBayesWorker-33 finished
+Manager-40 (29678): work queue is empty
+Writing prior samples...
+Running prior worker batch 3 of 8...
+Manager-41 (17801): starting worker MsBayesWorker-34
+Manager-42 (17804): starting worker MsBayesWorker-35
+Manager-43 (17807): starting worker MsBayesWorker-36
+Manager-44 (17810): starting worker MsBayesWorker-37
+Manager-45 (17816): starting worker MsBayesWorker-38
+Manager-46 (17819): starting worker MsBayesWorker-39
+Manager-48 (17827): starting worker MsBayesWorker-40
+Manager-47 (17822): starting worker MsBayesWorker-41
+Manager-45 (17816): worker MsBayesWorker-38 finished
+Manager-48 (17827): worker MsBayesWorker-40 finished
+Manager-45 (17816): work queue is empty
+Manager-48 (17827): work queue is empty
+Manager-46 (17819): worker MsBayesWorker-39 finished
+Manager-46 (17819): work queue is empty
+Manager-47 (17822): worker MsBayesWorker-41 finished
+Manager-47 (17822): work queue is empty
+Manager-41 (17801): worker MsBayesWorker-34 finished
+Manager-43 (17807): worker MsBayesWorker-36 finished
+Manager-41 (17801): work queue is empty
+Manager-43 (17807): work queue is empty
+Manager-42 (17804): worker MsBayesWorker-35 finished
+Manager-44 (17810): worker MsBayesWorker-37 finished
+Manager-42 (17804): work queue is empty
+Manager-44 (17810): work queue is empty
+Writing prior samples...
+Running prior worker batch 4 of 8...
+Manager-49 (28937): starting worker MsBayesWorker-42
+Manager-50 (28941): starting worker MsBayesWorker-43
+Manager-51 (28944): starting worker MsBayesWorker-44
+Manager-52 (28946): starting worker MsBayesWorker-45
+Manager-53 (28950): starting worker MsBayesWorker-46
+Manager-56 (28961): starting worker MsBayesWorker-47
+Manager-54 (28953): starting worker MsBayesWorker-48
+Manager-55 (28959): starting worker MsBayesWorker-49
+Manager-53 (28950): worker MsBayesWorker-46 finished
+Manager-50 (28941): worker MsBayesWorker-43 finished
+Manager-54 (28953): worker MsBayesWorker-48 finished
+Manager-49 (28937): worker MsBayesWorker-42 finished
+Manager-53 (28950): work queue is empty
+Manager-50 (28941): work queue is empty
+Manager-54 (28953): work queue is empty
+Manager-49 (28937): work queue is empty
+Manager-56 (28961): worker MsBayesWorker-47 finished
+Manager-52 (28946): worker MsBayesWorker-45 finished
+Manager-56 (28961): work queue is empty
+Manager-52 (28946): work queue is empty
+Manager-51 (28944): worker MsBayesWorker-44 finished
+Manager-51 (28944): work queue is empty
+Manager-55 (28959): worker MsBayesWorker-49 finished
+Manager-55 (28959): work queue is empty
+Writing prior samples...
+Running prior worker batch 5 of 8...
+Manager-57 (563): starting worker MsBayesWorker-50
+Manager-58 (566): starting worker MsBayesWorker-51
+Manager-59 (568): starting worker MsBayesWorker-52
+Manager-60 (571): starting worker MsBayesWorker-53
+Manager-61 (572): starting worker MsBayesWorker-54
+Manager-62 (577): starting worker MsBayesWorker-55
+Manager-64 (583): starting worker MsBayesWorker-56
+Manager-63 (580): starting worker MsBayesWorker-57
+Manager-61 (572): worker MsBayesWorker-54 finished
+Manager-63 (580): worker MsBayesWorker-57 finished
+Manager-59 (568): worker MsBayesWorker-52 finished
+Manager-61 (572): work queue is empty
+Manager-63 (580): work queue is empty
+Manager-59 (568): work queue is empty
+Manager-57 (563): worker MsBayesWorker-50 finished
+Manager-62 (577): worker MsBayesWorker-55 finished
+Manager-60 (571): worker MsBayesWorker-53 finished
+Manager-57 (563): work queue is empty
+Manager-62 (577): work queue is empty
+Manager-60 (571): work queue is empty
+Manager-64 (583): worker MsBayesWorker-56 finished
+Manager-58 (566): worker MsBayesWorker-51 finished
+Manager-64 (583): work queue is empty
+Manager-58 (566): work queue is empty
+Writing prior samples...
+Running prior worker batch 6 of 8...
+Manager-65 (27021): starting worker MsBayesWorker-58
+Manager-66 (27024): starting worker MsBayesWorker-59
+Manager-67 (27026): starting worker MsBayesWorker-60
+Manager-68 (27029): starting worker MsBayesWorker-61
+Manager-69 (27033): starting worker MsBayesWorker-62
+Manager-70 (27036): starting worker MsBayesWorker-63
+Manager-71 (27042): starting worker MsBayesWorker-64
+Manager-72 (27048): starting worker MsBayesWorker-65
+Manager-72 (27048): worker MsBayesWorker-65 finished
+Manager-72 (27048): work queue is empty
+Manager-71 (27042): worker MsBayesWorker-64 finished
+Manager-69 (27033): worker MsBayesWorker-62 finished
+Manager-71 (27042): work queue is empty
+Manager-69 (27033): work queue is empty
+Manager-68 (27029): worker MsBayesWorker-61 finished
+Manager-68 (27029): work queue is empty
+Manager-67 (27026): worker MsBayesWorker-60 finished
+Manager-66 (27024): worker MsBayesWorker-59 finished
+Manager-67 (27026): work queue is empty
+Manager-65 (27021): worker MsBayesWorker-58 finished
+Manager-66 (27024): work queue is empty
+Manager-65 (27021): work queue is empty
+Manager-70 (27036): worker MsBayesWorker-63 finished
+Manager-70 (27036): work queue is empty
+Writing prior samples...
+Running prior worker batch 7 of 8...
+Manager-73 (31567): starting worker MsBayesWorker-66
+Manager-74 (31571): starting worker MsBayesWorker-67
+Manager-75 (31574): starting worker MsBayesWorker-68
+Manager-76 (31579): starting worker MsBayesWorker-69
+Manager-77 (31583): starting worker MsBayesWorker-70
+Manager-78 (31587): starting worker MsBayesWorker-71
+Manager-79 (31594): starting worker MsBayesWorker-72
+Manager-80 (31602): starting worker MsBayesWorker-73
+Manager-75 (31574): worker MsBayesWorker-68 finished
+Manager-78 (31587): worker MsBayesWorker-71 finished
+Manager-77 (31583): worker MsBayesWorker-70 finished
+Manager-75 (31574): work queue is empty
+Manager-78 (31587): work queue is empty
+Manager-77 (31583): work queue is empty
+Manager-80 (31602): worker MsBayesWorker-73 finished
+Manager-80 (31602): work queue is empty
+Manager-76 (31579): worker MsBayesWorker-69 finished
+Manager-79 (31594): worker MsBayesWorker-72 finished
+Manager-73 (31567): worker MsBayesWorker-66 finished
+Manager-76 (31579): work queue is empty
+Manager-79 (31594): work queue is empty
+Manager-73 (31567): work queue is empty
+Manager-74 (31571): worker MsBayesWorker-67 finished
+Manager-74 (31571): work queue is empty
+Writing prior samples...
+Running prior worker batch 8 of 8...
+Manager-81 (3709): starting worker MsBayesWorker-74
+Manager-83 (3714): starting worker MsBayesWorker-75
+Manager-82 (3712): starting worker MsBayesWorker-76
+Manager-84 (3718): starting worker MsBayesWorker-77
+Manager-85 (3723): starting worker MsBayesWorker-78
+Manager-86 (3730): starting worker MsBayesWorker-79
+Manager-87 (3735): starting worker MsBayesWorker-80
+Manager-88 (3740): starting worker MsBayesWorker-81
+Manager-83 (3714): worker MsBayesWorker-75 finished
+Manager-83 (3714): work queue is empty
+Manager-86 (3730): worker MsBayesWorker-79 finished
+Manager-85 (3723): worker MsBayesWorker-78 finished
+Manager-88 (3740): worker MsBayesWorker-81 finished
+Manager-86 (3730): work queue is empty
+Manager-81 (3709): worker MsBayesWorker-74 finished
+Manager-85 (3723): work queue is empty
+Manager-88 (3740): work queue is empty
+Manager-81 (3709): work queue is empty
+Manager-84 (3718): worker MsBayesWorker-77 finished
+Manager-87 (3735): worker MsBayesWorker-80 finished
+Manager-84 (3718): work queue is empty
+Manager-87 (3735): work queue is empty
+Manager-82 (3712): worker MsBayesWorker-76 finished
+Manager-82 (3712): work queue is empty
+Writing prior samples...
+Done!
+	[[run_stats]]
+		start_time = 2018-06-29 23:56:02.178182
+		stop_time = 2018-06-30 00:16:41.593799
+		total_duration = 0:20:39.415617
