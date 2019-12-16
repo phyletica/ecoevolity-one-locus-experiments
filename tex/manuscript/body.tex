@@ -1,15 +1,143 @@
 \section{Introduction}
 
+How well can we infer shared divergence times given only a single locus?
+
+How does a full-likelihood method that assumes unlinked characters
+compare to an ABC method that correctly assumes linked sites?
+
 \section{Methods}
 
+We used
+\ecoevolity \citep[Version 0.2.1 (commit 8ac8228);][]{Oaks2018ecoevolity}
+for all full-likelihood analsyes and
+\pymsbayes \citep[Version 0.2.4;][]{Oaks2014dpp}
+for all ABC analyses.
+We chose the settings for simulating and analyzing data with these tools to
+maximize the comparability of the results.
+For both methods, we used the same distributions from which parameter values
+were drawn for simulating the data as priors in the subsequent analyses of the
+simulated datasets.
+As a result, there were no model violations except for \ecoevolity, where we
+were violated the assumption that all characters are unlinked.
+
+\subsection{Simulation-based analyses with \ecoevolity}
+
+To simulate 500 \datasets with a single locus of length 500, 1000, 2000, and
+10,000 sites,
+we used the \simcoevolity tool.
+For each \dataset, there were five pairs of populations with 20 copies of the
+locus sampled from each population.
+We assumed that all five pairs share the same rate of mutation, which was set
+to 1.0, such that time and effective population sizes are scaled by the
+mutation rate.
+We treated the number and timing of divergence events and the assignment of the
+pairs of populations to those events as a random variable under a Dirichlet
+process with a concentration parameter of 2.22543 (a prior mean number of
+events of three) and base distribution of $\etime \sim \dexponential{0.01}$;
+the base distribution is the prior on divergence times.
+
+The model implemented in \ecoevolity assumes biallelic characters that evolve
+along gene trees according to a continutuous-time Markov chain (CTMC) model of
+state substitution.
+For this CTMC model, we constrained the equilibrium frequencies of the two
+states to be equal.
+
+We drew the effective size of each descendant population of each pair
+from a gamma distribution,
+$\epopsize[\descendantpopindex{}] \sim \dgamma{10}{0.0005}$.
+The size of each ancestral population relative to the mean
+size of the descendant populations was drawn from
+another gamma distribution,
+$\rootrelativepopsize \sim \dgamma{100}{1}$.
+
+For each pair of populations, we assumed the locus was biparentally inherited
+and diploid (i.e., we set the ploidy to 2.0).
+However, this is directly translatable to a uniparentally inherited, haploid
+locus (e.g., a mitochondrial locus) by simply multiplying the effective
+population sizes by four.
+In other words, we would get the same results if we set the ploidy to 0.5 and
+changed the distribution on the descendant population size to
+\dgamma{10}{0.002}.
+
+We ran three independent MCMC chains for 30,000 generations, sampling every
+20th generation for 1501 samples from each chain, including the initial state.
+For each analyzed \dataset, we removed the first 401 samples from each chain
+before summarizing the posterior across the remaining 3300 samples.
+We confirmed this was an adequate burn-in by checking the potential scale
+reduction factor \citep[PSRF; the square root of Equation 1.1 in][]{Brooks1998}
+and effective sample size \citep[ESS;][]{Gong2014} of the log-likelihood and
+parameters.
+
+\subsection{Simulation-based analyses with \pymsbayes}
+
+For all analyses with \pymsbayes, we used the \dppmsbayes model
+\citep{Oaks2014dpp}.
+We used the same distributions on parameters as we did for \ecoevolity, with
+two exceptions.
+First, \dppmsbayes parameterizes population sizes differently than \ecoevolity.
+For \dppmsbayes, priors are specified for $4\epopsize{}\murate{}$, rather than
+on \epopsize{} and \murate{}.
+Accordingly, we used a distribution of \dgamma{10}{0.002} on
+$4\epopsize{}\murate{}$ to ensure comparability with the \ecoevolity results.
+Second, for \dppmsbayes, we used a Jukes-Cantor model of nucleotide
+substitution \citep{JC1969}; the model we used in \ecoevolity is the two-state
+equivalent.
+
+We simulated 500,000 samples from the joint prior distribution, and used four
+summary statistics calculated from the simulated locus alignment of each pair:
+\begin{enumerate}
+    \item The number of segregating sites \citep[$\theta_W$;][]{Watterson1975},
+    \item the average number of pairwise differences across all gene copies
+        \citep[$\pi$;][]{NeiLi1979},
+    \item the net number of pairwise differences between the two populations
+        \citep[Equation 25 in][]{NeiLi1979}, and
+    \item the standard deviation in the difference between $\pi$ and $\theta_W$
+        \citep{Tajima1989}.
+\end{enumerate}
+We used the mean and standard deviation from the prior to standardize each
+statistic.
+Using the same standardized statistics calculated from each simulated observed
+\dataset, we then retained the 2,000 prior samples that had the smallest
+Euclidean distance as the sample from the approximate posterior.
+
 \section{Results}
+
+In general, neither \ecoevolity nor \dppmsbayes is doing particularly well with
+just one locus.
+\ecoevolity is doing a bit better by most metrics
+(\cref{fig:divtimes,fig:nevents,fig:leafsizes,fig:rootsizes}),
+which suggests we are better off violating the assumption of unlinked sites
+rather than resorting to ABC.
+
+\ifembed{
+\input{fig-div-times.tex}
+}{}
 
 \ifembed{
 \input{fig-nevents.tex}
 }{}
 
 \ifembed{
-\input{fig-div-times.tex}
+\input{fig-leaf-sizes.tex}
 }{}
+
+\ifembed{
+\input{fig-root-sizes.tex}
+}{}
+
+
+The PSRF
+(Fig.\
+S\ref{fig:psrflikelihood}
+\&
+S\ref{fig:psrfdivtimes})
+and ESS
+(Fig.\
+S\ref{fig:esslikelihood},
+S\ref{fig:essdivtimes},
+\&
+S\ref{fig:essrootsizes})
+values for the log likelihood score and parameters
+indicate that MCMC chains run with \ecoevolity converged and mixed well.
 
 \section{Discussion}

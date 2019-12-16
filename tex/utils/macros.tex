@@ -55,40 +55,6 @@
 \newcommand{\embedWidthFigure}[4]{\widthFigure{#1}{#2}{listformat=figList}{#3}{#4}}
 \newcommand{\siFigure}[3]{\smartFigure{#1}{name=Figure S, labelformat=noSpace, listformat=sFigList}{#2}{#3}\clearpage}
 
-\newcommand{\validationfiguregriddescription}{The first four columns show the
-    results from different distributions on the relative effective size of the
-    ancestral population, decreasing in variance from left to right.
-    The fifth column shows results when the effective size
-    ($\epopsize{}\murate{}$) of all populations is fixed to 0.002.
-    For the first two and last two rows, the simulated character matrix for
-    each population had 500,000 and 100,000 characters, respectively.
-    The first and third rows show the results of analyses using all characters,
-    whereas the second and fourth rows show the results when only variable
-    characters are used.
-}
-\newcommand{\missingdatafigurecolumndescription}{The columns, from left to
-    right, show the results when each simulated 500,000-character matrix has
-    approximately 0\%, 10\%, 25\%, and 50\% missing cells.
-}
-\newcommand{\comparisoncolumndescription}[2]{
-    For comparison, the first column shows the results of the 500 \datasets from
-    Figure~#1\ref{#2}; the remaining columns show the results of
-    100 \datasets.
-}
-\newcommand{\missingdatafigurerowdescription}{The rows show the results when
-    (top) all sites and (bottom) only variable sites are analyzed.
-}
-\newcommand{\filtereddatafigurecolumndescription}{The columns, from left to
-    right, show the results when each simulated
-    500,000-character \dataset has a probability of 100\%, 80\%, 60\%, and 40\%
-    of sampling each simulated singleton pattern.
-    E.g., each character matrix analyzed in the far right column is missing
-    approximately 60\% of characters where all but one gene copy has the same
-    allele.
-}
-\newcommand{\filtereddatafigurerowdescription}{The rows show the results when
-    (top) all sites and (bottom) only variable sites are analyzed.
-}
 \newcommand{\weusedmatplotlib}{We generated the plot using matplotlib Version
     2.0.0 \citep{matplotlib}.}
 \newcommand{\weusedggplot}{We generated the plots with ggplot2 Version 2.2.1
